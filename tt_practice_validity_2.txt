@@ -1,0 +1,17 @@
+## truth tables, practice problems 4
+
+These are optional problems, and you can work on them with others. 
+
+Determine the truth values for each sentence, and then indicate whether the line is a good or a bad one by putting a `T` or an `F` under the turnstile (or a check or an X if those symbols are available). See section 11.4 in forallx for futher explanation. 
+
+
+~~~{.TruthTable .Validity system="magnusSLPlus" options="turnstilemark nocounterexample" points="0"}
+0.7 A <-> C, B & C :|-: A
+~~~
+
+~~~{.TruthTable .Validity system="magnusSLPlus" options="turnstilemark nocounterexample autoAtoms" points="0"}
+0.8 A <-> ~C, B & ~C :|-: A v C
+0.9 A <-> ~C, B & ~C :|-: A & C
+0.10 (P & Q) -> R, ~Q :|-: P->R
+0.11 A <-> ~C, ~C, B :|-: A & B
+~~~

@@ -1,0 +1,26 @@
+## truth tables, practice problems 2 (sentences)
+
+These are optional, and you can work on them with others.
+
+
+
+~~~{.TruthTable .Simple system="magnusSLPlus" options="nocounterexample" points="0"}
+0.1 ((A v ~A) & (A v B))
+~~~
+
+~~~{.TruthTable .Simple system="magnusSLPlus" options="nocounterexample" points="0"}
+0.2 (~(A & B) & (A v B))
+~~~
+
+~~~{.TruthTable .Simple system="magnusSLPlus" options="nocounterexample" points="0"}
+0.3 (A -> (B & C))
+~~~
+
+~~~{.TruthTable .Simple system="magnusSLPlus" options="nocounterexample" points="0"}
+0.4 ((A v C) -> (B & C))
+~~~
+
+~~~{.TruthTable .Simple system="magnusSLPlus" options="nocounterexample" points="0"}
+0.5 ((A v C) <-> ~B)
+~~~
+

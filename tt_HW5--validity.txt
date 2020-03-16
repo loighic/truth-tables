@@ -1,0 +1,36 @@
+## truth tables HW 5
+
+Each problem is worth 2 points. 
+
+Determine the truth values for each sentence, and then indicate whether the line is a good or a bad one by putting a `T` or an `F` under the turnstile (or a check or an X if those symbols are available). See section 11.4 in forallx for futher explanation. 
+
+
+
+~~~{.TruthTable .Validity system="magnusSLPlus" options="turnstilemark nocounterexample" points="2"}
+5.1 ~(P & Q) :|-: P -> ~Q
+~~~
+
+~~~{.TruthTable .Validity system="magnusSLPlus" options="turnstilemark nocounterexample" points="2"}
+5.2 (P v Q), ~P :|-: Q & P
+5.2 (S v T), ~S :|-: ~T & S
+5.2 (A v B), A :|-: ~B & A
+~~~
+
+~~~{.TruthTable .Validity system="magnusSLPlus" options="turnstilemark nocounterexample" points="2"}
+5.3 (P & Q), ~P -> Q :|-: Q
+5.3 (P & Q), ~P -> Q  :|-: Q 
+5.3 (~P v Q), ~P <-> Q  :|-: Q 
+5.3 (P v Q), P -> ~Q  :|-: ~Q 
+5.3 (P v ~Q), P -> ~Q :|-: ~Q
+~~~
+
+~~~{.TruthTable .Validity system="magnusSLPlus" options="turnstilemark nocounterexample" points="2"}
+5.4 (P & Q) -> R :|-: P->R
+5.4 (A v B) <-> C :|-: A<->C
+~~~
+
+~~~{.TruthTable .Validity system="magnusSLPlus" options="turnstilemark nocounterexample autoAtoms" points="2"}
+5.5 (P v Q) -> R, ~Q :|-: P->R
+5.5 (A v ~B) -> C, B :|-: A->C
+~~~
+
