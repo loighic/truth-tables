@@ -1,0 +1,27 @@
+## truth tables HW 2
+
+Each problem is worth 2 points.
+
+---
+
+~~~{.TruthTable .Simple system="magnusSLPlus" options="nocounterexample" points="2"}
+2.1 (P v ~Q)
+~~~
+
+~~~{.TruthTable .Simple system="magnusSLPlus" options="nocounterexample" points="2"}
+2.2 ~(P & Q)
+~~~
+
+~~~{.TruthTable .Simple system="magnusSLPlus" options="nocounterexample" points="2"}
+2.3 (~P -> Q)
+~~~
+
+~~~{.TruthTable .Simple system="magnusSLPlus" options="nocounterexample" points="2"}
+2.4 A v (A & C)
+~~~
+
+~~~{.TruthTable .Simple system="magnusSLPlus" options="nocounterexample" points="2"}
+2.5 A -> (~C v C)
+~~~
+
+
