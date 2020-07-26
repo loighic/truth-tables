@@ -1,0 +1,25 @@
+## truth tables HW 1, characteristic truth tables
+
+Each problem is worth 2 points.
+
+
+~~~{.TruthTable .Simple system="magnusSLPlus" options="nocounterexample" points="2"}
+1.1 P & Q
+~~~
+
+~~~{.TruthTable .Simple system="magnusSLPlus" options="nocounterexample" points="2"}
+1.2 P -> Q
+~~~
+
+~~~{.TruthTable .Simple system="magnusSLPlus" options="nocounterexample" points="2"}
+1.3 P v Q
+~~~
+
+~~~{.TruthTable .Simple system="magnusSLPlus" options="nocounterexample" points="2"}
+1.4 P <-> Q
+~~~
+
+~~~{.TruthTable .Simple system="magnusSLPlus" options="nocounterexample" points="2"}
+1.5 ~P & Q
+~~~
+
