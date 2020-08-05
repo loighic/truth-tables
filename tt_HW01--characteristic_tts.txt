@@ -1,7 +1,8 @@
 ## truth tables HW 1, characteristic truth tables
 
-Each problem is worth 2 points.
+Each problem is worth 2 points. Be sure to submit each problem. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
 
+---
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="2"}
 1.1 P & Q
