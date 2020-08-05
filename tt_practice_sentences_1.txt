@@ -2,45 +2,17 @@
 
 These are optional, and you can work on them with others.
 
-
+---
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="0"}
 0.1 (S & T)
-~~~
-
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="0"}
 0.2 ~(S & T)
-~~~
-
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="0"}
 0.3 (S & ~T)
-~~~
-
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="0"}
 0.4 (S v T)
-~~~
-
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="0"}
 0.5 ~(S v T)
-~~~
-
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="0"}
 0.6 (~S v T)
-~~~
-
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="0"}
 0.7 ~(S & T)
-~~~
-
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="0"}
 0.8 (R -> (T <-> T))
-~~~
-
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="0"}
 0.9 (R v T) v (R & T)
-~~~
-
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="0"}
 0.10 (T -> (~R <-> R))
 ~~~
-
