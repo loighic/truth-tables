@@ -2,8 +2,9 @@
 
 Each problem is worth 2 points. 
 
-Determine the truth values for each sentence, and then indicate whether the line is a good or a bad one by putting a `✓` or an `✗` under the turnstile. See sections 11.2 and 11.3 in <i>forallx</i> for futher explanation. 
+Determine the truth values for each sentence, and then indicate whether the line is a good or a bad one by putting a `✓` or an `✗` under the turnstile. 
 
+---
 
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" points="2"}
