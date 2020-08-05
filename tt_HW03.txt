@@ -2,6 +2,7 @@
 
 Each problem is worth 2 points.
 
+---
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="2"}
 3.1 P <-> (P & Q) 
