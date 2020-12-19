@@ -1,10 +1,10 @@
 ## truth tables, practice problems 1 (sentences)
 
-These are optional, and you can work on them with others.
+These are optional, and you can work on them with others. They won't count as part of your grade, and they can't be submitted. But you can check whether you have done them correctly.
 
 ---
 
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="0"}
+~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" submission="none"}
 0.1 (S & T)
 0.2 ~(S & T)
 0.3 (S & ~T)
