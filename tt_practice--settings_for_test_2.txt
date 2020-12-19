@@ -1,7 +1,5 @@
 ## truth tables, practice problems 5
 
-These are optional problems, and you can work on them with others. 
-
 On part 2 of test 2, you will have to create truth tables, and in some cases, you won't be able to check them before you submit. You will, however, be able to submit whether the truth table is correct or not. So that you can see what it's like, these problems are set up that way. They will not count toward your grade, but so that you can check if you did them correctly, they are each worth 1 point.
 
 ---
