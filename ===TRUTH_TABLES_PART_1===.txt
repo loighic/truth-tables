@@ -1,8 +1,8 @@
 ## truth tables, part 1
 
-For the first set of truth table assignments, you have to create truth tables for individual sentences (one sentence per truth table).
+For the first set of truth table assignments, you have to create truth tables for individual sentences.
 
-Read: ch 8 & ch 9 (Characteristic truth tables, Complete truth tables)
+Read chapters 8, 9, and 10 (Characteristic truth tables, Complete truth tables, and Semantic concepts)
 
 Each homework assignment is worth 10 points. 
 
