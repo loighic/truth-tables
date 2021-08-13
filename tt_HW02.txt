@@ -14,4 +14,6 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 2.5 A -> (~C v C)
 ~~~
 
+&copy; 2021 Gregory Johnson 
 
+---
