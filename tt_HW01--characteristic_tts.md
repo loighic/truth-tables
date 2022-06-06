@@ -13,3 +13,7 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 1.4 P <-> Q
 1.5 ~P & Q
 ~~~
+
+&copy; 2021 Gregory Johnson 
+
+---

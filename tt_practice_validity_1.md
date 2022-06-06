@@ -2,7 +2,7 @@
 
 These are optional problems, and you can work on them with others. They won't count as part of your grade, and they can't be submitted. But you can check whether you have done them correctly.
 
-Determine the truth values for each sentence, and then indicate whether the line is a good or a bad one by putting a `✓` or an `✗` under the turnstile. See sections 11.2 and 11.3 in <i>forallx</i> for futher explanation. 
+Determine the truth values for each sentence, and then indicate whether the line is a good or a bad one by putting a `✓` or an `✗` under the turnstile. See sections 11.1 and 11.2 in <i>forallx</i> for futher explanation. 
 
 ---
 
@@ -65,3 +65,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
+
+&copy; 2021 Gregory Johnson 
+
+---

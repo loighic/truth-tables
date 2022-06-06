@@ -1,0 +1,19 @@
+## truth tables HW 3
+
+Each problem is worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 16 points. Your grade will be put on a 10 point scale when it is posted in Canvas. 
+
+Be sure to submit each problem. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
+
+---
+
+~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="20" late-credit="16"}
+3.1 P <-> (P & Q) 
+3.2 (A v C) & ~A
+3.3 (A & C) <-> ~A
+3.4 (P v (Q v R))
+3.5 (~(P & Q) v R)
+~~~
+
+&copy; 2021 Gregory Johnson 
+
+---

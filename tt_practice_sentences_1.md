@@ -16,3 +16,7 @@ These are optional, and you can work on them with others. They won't count as pa
 0.9 (R v T) v (R & T)
 0.10 (T -> (~R <-> R))
 ~~~
+
+&copy; 2021 Gregory Johnson 
+
+---

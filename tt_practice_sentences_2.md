@@ -103,3 +103,7 @@ __Part 2__
 | The sentences are jointly inconsistent.
 | The sentences are jointly consistent (but not equivalent).
 ~~~
+
+&copy; 2021 Gregory Johnson 
+
+---

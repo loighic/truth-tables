@@ -55,3 +55,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
+
+&copy; 2021 Gregory Johnson 
+
+---

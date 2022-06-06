@@ -1,9 +1,11 @@
 ## truth tables, part 2
 
+---
+
 For the second set of truth table assignments, you have to create truth tables for arguments (which means multiple sentences in each truth table). You then have to determine if the argument is valid by evaluating each line of the truth table.
 
 Read: ch 11 (Truth tables and validity)
 
-Each homework assignment is worth 10 points. 
+Each homework assignment is worth 100 points. 
 
 ---
