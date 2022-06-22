@@ -11,7 +11,7 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 2.2 ~(P & Q)
 2.3 (~P -> Q)
 2.4 A v (A & C)
-2.5 A -> (~C v C)
+2.5 A -> (~C v C)  - Hi!!!
 ~~~
 
 &copy; 2021 Gregory Johnson 
