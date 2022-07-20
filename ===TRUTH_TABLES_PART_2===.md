@@ -6,6 +6,6 @@ For the second set of truth table assignments, you have to create truth tables f
 
 Read: ch 11 (Truth tables and validity)
 
-Each homework assignment is worth 100 points. 
+Each homework assignment is worth 100 points but will be converted to a 10-point scale in Canvas.
 
 ---

@@ -6,6 +6,6 @@ For the first set of truth table assignments, you have to create truth tables fo
 
 Read chapters 8, 9, and 10 (Characteristic truth tables, Complete truth tables, and Six concepts)
 
-Each homework assignment is worth 100 points. 
+Each homework assignment is worth 100 points but will be converted to a 10-point scale in Canvas.
 
 ---
