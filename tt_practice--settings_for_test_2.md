@@ -2,6 +2,8 @@
 
 On part 2 of test 2, you will create truth tables in  Carnap, and in some cases, you won't be able to check them before you submit. You will, however, be able to submit whether the truth table is correct or not. So that you can see what it's like, these problems are set up that way. They will not count toward your grade, but so that you can check if you did them correctly, they are each worth 1 point.
 
+Let me know if you want to go over any of these problems after you've done them.
+
 ---
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample nocheck exam" points="1" late-credit="1"}
