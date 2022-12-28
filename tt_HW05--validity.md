@@ -14,7 +14,7 @@ For the truth tables, determine the truth values for each sentence, and then ind
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" points="10" late-credit="8"}
-5.2 Which one of the following is correct about P |- (Q -> P), the argument in the previous problem?
+5.2 Which one of the following is correct about P &vdash; (Q &rarr; P), the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
@@ -24,7 +24,7 @@ For the truth tables, determine the truth values for each sentence, and then ind
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" points="10" late-credit="8"}
-5.4 Which one of the following is correct about P & Q |- ~P v Q, the argument in the previous problem?
+5.4 Which one of the following is correct about P & Q &vdash; &not;P &or; Q, the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
@@ -35,7 +35,7 @@ For the truth tables, determine the truth values for each sentence, and then ind
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="10" late-credit="8"}
-5.6 Which one of the following is correct about P v ~Q |- P & Q, the argument in the previous problem?
+5.6 Which one of the following is correct about P &or; &not;Q &vdash; P & Q, the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
@@ -46,7 +46,7 @@ For the truth tables, determine the truth values for each sentence, and then ind
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="10" late-credit="8"}
-5.8 Which one of the following is correct about P & Q |- Q -> P, the argument in the previous problem?
+5.8 Which one of the following is correct about P & Q &vdash; Q &rarr; P, the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
@@ -57,11 +57,11 @@ For the truth tables, determine the truth values for each sentence, and then ind
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="10" late-credit="8"}
-5.10 Which one of the following is correct about P -> Q |- ~Q & P, the argument in the previous problem?
+5.10 Which one of the following is correct about P &rarr; Q &vdash; &not;Q & P, the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
 
-&copy; 2021 Gregory Johnson 
+&copy; 2023 Gregory Johnson 
 
 ---

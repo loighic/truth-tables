@@ -42,6 +42,6 @@ Remember, an argument is `valid` when it is the case that if the premises are tr
 6.5 (P & T) -> ~R, T :|-: P->R
 ~~~
 
-&copy; 2022 Gregory Johnson 
+&copy; 2023 Gregory Johnson 
 
 ---

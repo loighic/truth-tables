@@ -8,12 +8,22 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="20" late-credit="16"}
 2.1 (P v ~Q)
-2.2 ~(P & Q)
-2.3 (~P -> Q)
+2.1 (R & ~T)
+2.1 (~S v T)
+2.1 (~P & Q)
+2.2 (~P -> Q)
+2.2 (~P <-> T)
+2.2 (S -> ~T)
+2.2 (R <-> ~S)
+2.3 ~(P & Q)
+2.3 ~(T v S)
+2.3 ~(M -> N)
 2.4 A v (A & C)
+2.4 M & (M v N)
 2.5 A -> (~C v C)
+2.5 M <-> (N v ~N)
 ~~~
 
-&copy; 2022 Gregory Johnson 
+&copy; 2023 Gregory Johnson 
 
 ---

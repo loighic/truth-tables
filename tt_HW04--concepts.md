@@ -14,7 +14,7 @@ Except for the first one, the multiple choice questions cannot be checked before
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" points="10" late-credit="8"}
-4.2 Which one of the following is correct about (P v Q) & (~P -> Q), the sentence in the previous problem?
+4.2 Which one of the following is correct about (P &or; Q) & (&not;P &rarr; Q), the sentence in the previous problem?
 | This sentence is a tautology.
 | This sentence is a contradiction.
 |* This sentence is contingent.
@@ -27,7 +27,7 @@ Except for the first one, the multiple choice questions cannot be checked before
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="10" late-credit="8"}
-4.4 Which one of the following is correct about (P <-> ~Q) & (P <-> Q), the sentence in the previous problem?
+4.4 Which one of the following is correct about (P &LeftRightArrow; &not;Q) & (P &LeftRightArrow; Q), the sentence in the previous problem?
 | This sentence is a tautology.
 |* This sentence is a contradiction.
 | This sentence is contingent.
@@ -40,7 +40,7 @@ Except for the first one, the multiple choice questions cannot be checked before
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="10" late-credit="8"}
-4.6 Which one of the following is correct about (P & Q) -> (~P -> Q), the sentence in the previous problem?
+4.6 Which one of the following is correct about (P & Q) &rarr; (&not;P &rarr; Q), the sentence in the previous problem?
 |* This sentence is a tautology.
 | This sentence is a contradiction.
 | This sentence is contingent.
@@ -53,7 +53,7 @@ Except for the first one, the multiple choice questions cannot be checked before
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="10" late-credit="8"}
-4.8 Which one of the following is correct about ~(P -> Q) and (~P -> ~Q), the sentences in the previous problem?
+4.8 Which one of the following is correct about &not;(P &rarr; Q) and (&not;P &rarr; &not;Q), the sentences in the previous problem?
 | The sentences are equivalent.
 | The sentences are jointly inconsistent.
 |* The sentences are jointly consistent (but not equivalent).
@@ -66,12 +66,12 @@ Except for the first one, the multiple choice questions cannot be checked before
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="10" late-credit="8"}
-4.10 Which one of the following is correct about P -> Q and ~(P & ~Q), the sentences in the previous problem?
+4.10 Which one of the following is correct about P &rarr; Q and &not;(P & &not;Q), the sentences in the previous problem?
 |* The sentences are equivalent.
 | The sentences are jointly inconsistent.
 | The sentences are jointly consistent (but not equivalent).
 ~~~
 
-&copy; 2021 Gregory Johnson 
+&copy; 2023 Gregory Johnson 
 
 ---
