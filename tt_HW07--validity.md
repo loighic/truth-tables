@@ -17,10 +17,10 @@ For 7.2 - 7.5, just indicate whether the line is a good or a bad one by putting 
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash strictGivens" points="20" late-credit="16"}
 7.2 (P v S), ~P -> ~S :|-: P & ~S
-|T	T	T  F	T	T	F	T - T	F	F	T	
-|T	T	F  F	T	T	T	F - T	T	T	F	
-|F	T	T  T	F	F	F	T - F	F	F	T	
-|F	F	F  T	F	T	T	F - F	F	T	F
+|  T	T	T  F	T	T	F	T - T	F	F	T	
+|  T	T	F  F	T	T	T	F - T	T	T	F	
+|  F	T	T  T	F	F	F	T - F	F	F	T	
+|  F	F	F  T	F	T	T	F - F	F	T	F
 ~~~
 
 &copy; 2023 Gregory Johnson 
