@@ -15,12 +15,12 @@ For 7.2 - 7.5, just indicate whether the line is a good or a bad one by putting 
 7.1 (P & T) -> ~R, T :|-: P->R
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash strictGivens" points="20" late-credit="16"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="20" late-credit="16"}
 7.2 (P v S), ~P -> ~S :|-: P & ~S
-|  T	T	T  F	T	T	F	T - T	F	F	T	
-|  T	T	F  F	T	T	T	F - T	T	T	F	
-|  F	T	T  T	F	F	F	T - F	F	F	T	
-|  F	F	F  T	F	T	T	F - F	F	T	F
+| TTTFT T FT - TFFT	
+| TTFFT T TF - TTTF	
+| FTTTF F FT - FFFT	
+| FFFTF T TF - FFTF
 ~~~
 
 ~~~{.TruthTable .Simple}
@@ -29,6 +29,6 @@ For 7.2 - 7.5, just indicate whether the line is a good or a bad one by putting 
 |   F - TF
 ~~~
 
-&copy; 2023 Gregory Johnson - 1
+&copy; 2023 Gregory Johnson - 2
 
 ---
