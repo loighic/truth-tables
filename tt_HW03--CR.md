@@ -1,4 +1,4 @@
-## truth tables HW 3
+## truth tables assignment 3 (in-class)
 
 Each problem is worth 20 points, and the whole assignment is worth 100 points. 
 
