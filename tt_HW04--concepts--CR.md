@@ -10,7 +10,7 @@ Except for the first one, the multiple choice questions cannot be checked before
 ---
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms" points="20" late-credit="16"}
 4.1 (~R -> (~S & T))
-4.2 ~(P & (S <-> ~T))
+4.2 ~(Q & (S <-> ~T))
 ~~~
 
 
