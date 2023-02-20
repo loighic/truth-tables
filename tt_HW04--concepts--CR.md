@@ -8,7 +8,8 @@ For the truth tables, determine the truth values for each sentence or pair of se
 Except for the first one, the multiple choice questions cannot be checked before they are submitted. Be sure to submit each problem. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
 
 ---
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms" points="20" late-credit="16"}
+
+~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="20" late-credit="16"}
 4.1 (~R -> (~S & T))
 4.2 ~(Q & (S <-> ~T))
 ~~~
