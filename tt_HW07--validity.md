@@ -34,19 +34,19 @@ For 7.2 - 7.5, just indicate whether the line is a good or a bad one by putting 
 |   F T  TF FF
 ~~~
 
-~~~{.TruthTable .Simple}
+~~~{.TruthTable .Simple system="magnusSL"}
 2.8 Pv~Q
-|   TTFT
-|   TTTF
-|	FFFT
-|	FTTF
+| TTFT
+| TTTF
+| FFFT
+| FTTF
 ~~~
 
 ```{.TruthTable .Validity system="magnusSL"}
 2.14 P,Q:|-:P&Q
 | TT----
-| FT----
 | TF----
+| FT----
 | FF----
 ```
 
