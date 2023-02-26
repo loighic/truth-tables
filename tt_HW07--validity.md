@@ -1,10 +1,8 @@
 ## truth tables HW 7
 
-Your grade will be put on a 10 point scale when it is posted in Canvas.
+Each problem is worth 10 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 8 points. Your grade will be put on a 10 point scale when it is posted in Canvas.
 
-For 7.1, determine the truth values for each sentence, and then indicate whether the line is a good or a bad one by putting a `✓` or an `✗` under the turnstile. 
-
-For 7.2 - 7.10, just indicate whether the line is a good or a bad one by putting a `✓` or an `✗` under the turnstile.
+For each, indicate whether the line is a good or a bad one by putting a `✓` or an `✗` under the turnstile.
 
 ---
 
