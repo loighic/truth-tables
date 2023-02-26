@@ -15,42 +15,36 @@ For 7.2 - 7.5, just indicate whether the line is a good or a bad one by putting 
 7.1 (P & T) -> ~R, T :|-: P->R
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="20" late-credit="16"}
-7.2 (PvS),~P->~S:|-:P&~S
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="10" late-credit="8"}
+7.2 Q -> ~R, R v S :|-: S -> Q
+| F T F F T T T T - F T
+| F T F F T T F F - F T
+| F T T T F F F T - F T
+| F T T T F F F F - F T
+| T F T F T T T T - T F
+| T F T F T T F F - T F
+| T F T T F F F T - T F
+| T F T T F F F F - T F
+ 
+
+7.3 ~P v ~Q, Q & S:|-: ~P
+
+
+7.4 (PvS),~P->~S:|-:P&~S
 | TTT FTTFT - TFFT
 | TTF FTTTF - TTTF
 | FTT TFFFT - FFFT
 | FFF TFTTF - FFTF
+
 ~~~
 
-~~~{.TruthTable .Partial}
-2.10 P \/~P
-|   F - TF
-~~~
-
-~~~{.TruthTable .Simple}
-2.9 (P v ~P) &P
-| T TFTTT
-| F TTFFF
-~~~
-
-~~~{.TruthTable .Simple system="magnusSL"}
-2.8 Pv~Q
-| TTFT
-| TTTF
-| FFFT
-| FTTF
-~~~
-
-```{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="20" late-credit="16"}
-2.14 P,Q:|-:P&Q
-| TT-TTT
-| TF-TFF
-| FT-FFT
-| FF-FFF
-```
 
 
-&copy; 2023 Gregory Johnson - 4
+
+
+
+
+
+&copy; 2023 Gregory Johnson
 
 ---
