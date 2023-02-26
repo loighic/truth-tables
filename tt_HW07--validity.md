@@ -95,7 +95,6 @@ For 7.2 - 7.10, just indicate whether the line is a good or a bad one by putting
 |   F F F      F T T      F T F   -   T F F
 |   F F F      F T F      F T T   -   F F T
 |   F F F      F T F      F T F   -   F F F
-
 ~~~
 
 
