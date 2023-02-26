@@ -42,7 +42,7 @@ For 7.2 - 7.5, just indicate whether the line is a good or a bad one by putting 
 | FTTF
 ~~~
 
-```{.TruthTable .Validity system="magnusSL"}
+```{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash"}
 2.14 P,Q:|-:P&Q
 | TT----
 | TF----
