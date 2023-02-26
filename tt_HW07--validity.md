@@ -17,7 +17,7 @@ For 7.2 - 7.10, just indicate whether the line is a good or a bad one by putting
 
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="10" late-credit="8"}
-7.2 P -> Q, Q -> R, P <-> R
+7.2 P -> Q, Q -> R :|-: P <-> R
 |   T T T     T T T   -   T T T
 |   T T T     T F F   -   T F F
 |   T F F     F T T   -   T T T
