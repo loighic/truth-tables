@@ -9,15 +9,8 @@ For 7.2 - 7.10, just indicate whether the line is a good or a bad one by putting
 ---
 
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash autoAtoms" points="20" late-credit="16"}
-7.1 (P v Q) -> R, ~Q :|-: P->R
-7.1 (A v ~B) -> C, B :|-: A->C
-7.1 (P & T) -> ~R, T :|-: P->R
-~~~
-
-
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="10" late-credit="8"}
-7.2 P -> Q, Q -> R :|-: P <-> R
+7.1 P -> Q, Q -> R :|-: P <-> R
 |   T T T     T T T   -   T T T
 |   T T T     T F F   -   T F F
 |   T F F     F T T   -   T T T
@@ -27,6 +20,15 @@ For 7.2 - 7.10, just indicate whether the line is a good or a bad one by putting
 |   F T F     F T T   -   F F T
 |   F T F     F T F   -   F T F
 
+7.2 (P v Q) -> R, ~Q :|-: P->R
+|   T T T   T T    F T -  T T T
+|   T T T   F F    F T -  T F F
+|   T T F   T T    T F -  T T T
+|   T T F   F F    T F -  T F F
+|   F T T   T T    F T -  F T T
+|   F T T   F F    F T -  F T F
+|   F F F   T T    T F -  F T T
+|   F F F   T F    T F -  F T F
 
 7.3 Q -> ~R, R v S :|-: S -> Q
 |   T F F T   T T T -  T T T
