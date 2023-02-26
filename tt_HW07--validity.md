@@ -60,7 +60,7 @@ For 7.2 - 7.5, just indicate whether the line is a good or a bad one by putting 
 |   F F F   F T F   F T T   -   F T T
 |   F F F   F T F   F T F   -   F F F
 
-7.5 M v N, M -> S, N -> T, S & T
+7.5 M v N, M -> S, N -> T :|-: S & T
 |   T T T      T T T      T T T   -   T T T
 |   T T T      T T T      T F F   -   T F F
 |   T T T      T F F      T T T   -   F F T
