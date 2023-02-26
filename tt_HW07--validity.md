@@ -17,9 +17,9 @@ For 7.2 - 7.5, just indicate whether the line is a good or a bad one by putting 
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="20" late-credit="16"}
 7.2 (PvS),~P->~S:|-:P&~S
-| TTT FTTFT - TFFT	
-| TTF FTTTF - TTTF	
-| FTT TFFFT - FFFT	
+| TTT FTTFT - TFFT
+| TTF FTTTF - TTTF
+| FTT TFFFT - FFFT
 | FFF TFTTF - FFTF
 ~~~
 
@@ -42,7 +42,7 @@ For 7.2 - 7.5, just indicate whether the line is a good or a bad one by putting 
 | FTTF
 ~~~
 
-```{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash"}
+```{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="20" late-credit="16"}
 2.14 P,Q:|-:P&Q
 | TT-TTT
 | TF-TFF
