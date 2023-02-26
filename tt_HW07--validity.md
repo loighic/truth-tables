@@ -35,7 +35,7 @@ For 7.2 - 7.5, just indicate whether the line is a good or a bad one by putting 
 ~~~
 
 ~~~{.TruthTable .Simple}
-2.8 P v ~R
+2.8 P v ~Q
 |   T T FT
 |   T T TF
 |	F F FT
