@@ -42,6 +42,23 @@ For 7.2 - 7.5, just indicate whether the line is a good or a bad one by putting 
 | FTT TFFFT - FFFT
 | FFF TFTTF - FFTF
 
+7.5 M v N, M -> S, N -> T :|-: S v T
+|   T T T   T T T   T T T   -   T T T
+|   T T T   T T T   T F F   -   T T F
+|   T T T   T F F   T T T   -   F T T
+|   T T T   T F F   T F F   -   F F F
+|   T T F   T T T   F T T   -   T T T
+|   T T F   T T T   F T F   -   T T F
+|   T T F   T F F   F T T   -   F T T
+|   T T F   T F F   F T F   -   F F F
+|   F T T   F T T   T T T   -   T T T
+|   F T T   F T T   T F F   -   T T F
+|   F T T   F T F   T T T   -   F T T
+|   F T T   F T F   T F F   -   F F F
+|   F F F   F T T   F T T   -   T T T
+|   F F F   F T T   F T F   -   T T F
+|   F F F   F T F   F T T   -   F T T
+|   F F F   F T F   F T F   -   F F F
 ~~~
 
 
