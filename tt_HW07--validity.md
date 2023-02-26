@@ -23,6 +23,11 @@ For 7.2 - 7.5, just indicate whether the line is a good or a bad one by putting 
 | FFFTFTTF-FFTF
 ~~~
 
+~~~{.TruthTable .Partial}
+2.10 P \/~P
+|   F - TF
+~~~
+
 ~~~{.TruthTable .Simple}
 2.9 P v ~R
 |   T - FT
