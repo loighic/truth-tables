@@ -43,7 +43,7 @@ For 7.2 - 7.5, just indicate whether the line is a good or a bad one by putting 
 ~~~
 
 ```{.TruthTable .Validity}
-2.14 P,Q:|-:P/\Q
+2.14 P,Q:|-:P&Q
 | TT----
 | FT----
 | TF----
