@@ -42,6 +42,15 @@ For 7.2 - 7.5, just indicate whether the line is a good or a bad one by putting 
 |	F T TF
 ~~~
 
+```{.TruthTable .Validity trueMark="1" falseMark="0"}
+2.14 P,Q:|-:P/\Q
+| TT----
+| FT----
+| TF----
+| FF----
+```
+
+
 &copy; 2023 Gregory Johnson - 4
 
 ---
