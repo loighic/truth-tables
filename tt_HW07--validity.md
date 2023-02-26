@@ -60,6 +60,24 @@ For 7.2 - 7.10, just indicate whether the line is a good or a bad one by putting
 |   T F T T    T   T F F   - T F
 |   T F F F    T   F F F   - T F
 
+7.7 P -> (Q v ~P), P :|-: ~Q
+|   T T   T T F T     T - F T
+|   T F   F F F T     T - T F
+|   F T   T T T F     F - F T
+|   F T   F T T F     F - T F
+
+7.8 ~(P v ~Q), Q v P :|-: P -> Q
+| F   T T F T    T T T   -   T T T
+| F   T T T F    F T T   -   T F F
+| T   F F F T    T T F   -   F T T
+| F   F T T F    F F F   -   F T F
+
+7.9 (~P <-> Q) & P, P -> ~Q :|-: Q
+|   F T F T   F T      T F F T   - T
+|   F T T F   T T      T T T F   - F
+|   T F T T   F F      F T F T   - T
+|   T F F F   F F      F T T F   - F
+
 7.10 M v N, M -> S, N -> T :|-: S v T
 |   T T T   T T T   T T T   -   T T T
 |   T T T   T T T   T F F   -   T T F
@@ -96,7 +114,6 @@ For 7.2 - 7.10, just indicate whether the line is a good or a bad one by putting
 |   F F F      F T F      F T T   -   F F T
 |   F F F      F T F      F T F   -   F F F
 ~~~
-
 
 &copy; 2023 Gregory Johnson
 
