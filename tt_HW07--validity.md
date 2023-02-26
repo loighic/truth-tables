@@ -17,18 +17,24 @@ For 7.2 - 7.5, just indicate whether the line is a good or a bad one by putting 
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="10" late-credit="8"}
 7.2 Q -> ~R, R v S :|-: S -> Q
-| F T F F T T T T - F T
-| F T F F T T F F - F T
-| F T T T F F F T - F T
-| F T T T F F F F - F T
-| T F T F T T T T - T F
-| T F T F T T F F - T F
-| T F T T F F F T - T F
-| T F T T F F F F - T F
- 
+| F T F F T T T - T F T
+| F T F F T T F - F F T
+| F T T T F F F - T F T
+| F T T T F F F - F F T
+| T F T F T T T - T T F
+| T F T F T T F - F T F
+| T F T T F F F - T T F
+| T F T T F F F - F T F
 
-7.3 ~P v ~Q, Q & S:|-: ~P
-
+7.3 ~P v ~Q, Q & S :|-: ~P
+|   F T F F T  T T T - F T
+|   F T F F T  T F F - F T
+|   F T T T F  F F T - F T
+|   F T T T F  F F F - F T
+|   T F T F T  T T T - T F
+|   T F T F T  T F F - T F
+|   T F T T F  F F T - T F
+|   T F T T F  F F F - T F
 
 7.4 (PvS),~P->~S:|-:P&~S
 | TTT FTTFT - TFFT
