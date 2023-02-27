@@ -19,7 +19,7 @@ Problems 5.1 - 5.12 are each worth 8 points. 5.13 - 5.15 are each worth 2 points
 |* The sentences are jointly consistent (but not equivalent).
 ~~~
 
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
+~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms" points="10" late-credit="8"}
 5.3 P -> Q, ~(P & ~Q)
 ~~~
 
@@ -30,7 +30,7 @@ Problems 5.1 - 5.12 are each worth 8 points. 5.13 - 5.15 are each worth 2 points
 | The sentences are jointly consistent (but not equivalent).
 ~~~
 
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
+~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms" points="10" late-credit="8"}
 5.5 ~(~P -> S), (S v P)
 ~~~
 
@@ -45,7 +45,7 @@ Problems 5.1 - 5.12 are each worth 8 points. 5.13 - 5.15 are each worth 2 points
 
 **Part 2, validity**
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" points="10" late-credit="8"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" points="10" late-credit="8"}
 5.7 P & Q :|-: Q -> P 
 ~~~
 
@@ -56,7 +56,7 @@ Problems 5.1 - 5.12 are each worth 8 points. 5.13 - 5.15 are each worth 2 points
 ~~~
 
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" points="10" late-credit="8"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" points="10" late-credit="8"}
 5.9 P -> Q :|-: ~Q & P
 ~~~
 
@@ -66,7 +66,7 @@ Problems 5.1 - 5.12 are each worth 8 points. 5.13 - 5.15 are each worth 2 points
 |* This  argument is invalid.
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" points="10" late-credit="8"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" points="10" late-credit="8"}
 5.11 P <-> ~T, ~(T v S) :|-: ~P
 ~~~
 
