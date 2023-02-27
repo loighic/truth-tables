@@ -1,11 +1,8 @@
-## truth tables HW 4
+## truth tables HW 5 (in-class)
 
 
-Each problem is worth 10 points, and the whole assignment is worth 100 points. Your grade will be put on a 10 point scale when it is posted in Canvas.  
+Problems 5.1 - 5.12 are each worth 8 points. 5.13 - 5.15 are each worth 2 points. Your grade will be put on a 10 point scale when it is posted in Canvas.  
 
-For the truth tables, determine the truth values for each sentence or pair of sentences. Each of the multiple choice questions is about the truth table right before it. The multiple choice questions can only answered once, and, except for the first one, they cannot be checked.
-
-Except for the first one, the multiple choice questions cannot be checked before they are submitted. Be sure to submit each problem. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
 
 ---
 
