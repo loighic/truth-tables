@@ -80,6 +80,8 @@ Problems 5.1 - 5.12 are each worth 8 points. 5.13 - 5.15 are each worth 2 points
 
 **Part 3, proofs**
 
+These don't need to be checked. They can't be submitted if they are incorrect.
+
 5.13 is done for you. Just hit submit.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="2" late-credit="1"}
