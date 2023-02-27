@@ -81,6 +81,29 @@ Except for the first one, the multiple choice questions cannot be checked before
 
 ---
 
+**Part 3, proofs**
+
+5.13 is done for you. Just hit submit.
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="2" late-credit="1"}
+5.13 P :|-: P v T
+|1.P	:PR
+|2.P v T	:vI 1
+~~~
+
+The argument given in 5.14 has two premises, which should be put in the proof as shown. 
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="2" late-credit="1"}
+5.14 R, S :|-: R & S
+|1.R	:PR
+|2.S	:PR
+|3. 
+~~~
+
+~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="2" late-credit="1"}
+5.15 (S & T) & Q :|-: T & Q
+~~~
+
 &copy; 2023 Gregory Johnson 
 
 ---
