@@ -99,6 +99,8 @@ The argument given in 5.14 has two premises, which should be put in the proof as
 |3. 
 ~~~
 
+For 5.15, you need to use the conjunction elimination rule (maybe more than once) and the conjunction introduction rule.
+
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="2" late-credit="1"}
 5.15 (S & T) & Q :|-: T & Q
 ~~~
