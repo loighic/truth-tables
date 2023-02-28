@@ -7,10 +7,12 @@ For 6.1, complete the truth table, including the column under the turnstile. For
 ---
 
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="10" late-credit="8"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash autoAtoms" points="10" late-credit="8"}
 6.1 P -> Q, Q -> R :|-: P <-> R
+~~~
 
 
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="10" late-credit="8"}
 6.2 (P v Q) -> R, ~Q :|-: P->R
 |   T T T   T T    F T -  T T T
 |   T T T   F F    F T -  T F F
