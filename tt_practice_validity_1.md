@@ -31,7 +31,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.6 Which one of the following is correct about A <-> ~C &vdash; C -> ~A, the argument in the previous problem?
+0.6 Which one of the following is correct about A &LeftRightArrow; ~C &vdash; C &rarr; ~A, the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
@@ -41,7 +41,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.8 Which one of the following is correct about A <-> ~C &vdash; C -> A, the argument in the previous problem?
+0.8 Which one of the following is correct about A &LeftRightArrow; ~C &vdash; C &rarr; A, the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
@@ -51,7 +51,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.10 Which one of the following is correct about (~P v Q) &vdash; P -> ~Q, the argument in the previous problem?
+0.10 Which one of the following is correct about (~P v Q) &vdash; P &rarr; ~Q, the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~

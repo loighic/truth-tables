@@ -11,7 +11,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.14 Which one of the following is correct about A &equiv; C, B & ~C &vdash; A, the argument in the previous problem?
+0.14 Which one of the following is correct about A &LeftRightArrow; C, B & ~C &vdash; A, the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
@@ -21,7 +21,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.16 Which one of the following is correct about A &equiv; ~C, B & ~C &vdash; A v C, the argument in the previous problem?
+0.16 Which one of the following is correct about A &LeftRightArrow; ~C, B & ~C &vdash; A v C, the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
@@ -31,7 +31,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.18 Which one of the following is correct about A &equiv; ~C, B & ~C &vdash; A & C, the argument in the previous problem?
+0.18 Which one of the following is correct about A &LeftRightArrow; ~C, B & ~C &vdash; A & C, the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
@@ -51,7 +51,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.22 Which one of the following is correct about A &equiv; ~C, ~C, B &vdash; A & B, the argument in the previous problem?
+0.22 Which one of the following is correct about A &LeftRightArrow; ~C, ~C, B &vdash; A & B, the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
