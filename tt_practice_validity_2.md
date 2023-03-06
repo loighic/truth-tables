@@ -11,7 +11,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.14 Which one of the following is correct about A <-> C, B & ~C |- A, the argument in the previous problem?
+0.14 Which one of the following is correct about A &equiv; C, B & ~C &vdash; A, the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
@@ -21,7 +21,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.16 Which one of the following is correct about A <-> ~C, B & ~C |- A v C, the argument in the previous problem?
+0.16 Which one of the following is correct about A &equiv; ~C, B & ~C &vdash; A v C, the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
@@ -31,7 +31,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.18 Which one of the following is correct about A <-> ~C, B & ~C |- A & C, the argument in the previous problem?
+0.18 Which one of the following is correct about A &equiv; ~C, B & ~C &vdash; A & C, the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
@@ -41,7 +41,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.20 Which one of the following is correct about (P & Q) -> R, ~Q |- P -> R, the argument in the previous problem?
+0.20 Which one of the following is correct about (P & Q) &rarr; R, ~Q &vdash; P &rarr; R, the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
@@ -51,7 +51,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.22 Which one of the following is correct about A <-> ~C, ~C, B |- A & B, the argument in the previous problem?
+0.22 Which one of the following is correct about A &equiv; ~C, ~C, B &vdash; A & B, the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~

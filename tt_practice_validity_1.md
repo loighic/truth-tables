@@ -11,7 +11,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.2 Which one of the following is correct about S & T |- T, the argument in the previous problem?
+0.2 Which one of the following is correct about S & T &vdash; T, the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
@@ -21,7 +21,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.4 Which one of the following is correct about S |- S v T, the argument in the previous problem?
+0.4 Which one of the following is correct about S &vdash; S v T, the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
@@ -31,7 +31,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.6 Which one of the following is correct about A <-> ~C |- C -> ~A, the argument in the previous problem?
+0.6 Which one of the following is correct about A <-> ~C &vdash; C -> ~A, the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
@@ -41,7 +41,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.8 Which one of the following is correct about A <-> ~C |- C -> A, the argument in the previous problem?
+0.8 Which one of the following is correct about A <-> ~C &vdash; C -> A, the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
@@ -51,7 +51,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.10 Which one of the following is correct about (~P v Q) |- P -> ~Q, the argument in the previous problem?
+0.10 Which one of the following is correct about (~P v Q) &vdash; P -> ~Q, the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
@@ -61,7 +61,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.12 Which one of the following is correct about (P v Q), ~P |- ~Q v P, the argument in the previous problem?
+0.12 Which one of the following is correct about (P v Q), ~P &vdash; ~Q v P, the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
