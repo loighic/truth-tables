@@ -3,9 +3,8 @@
 
 ---
 
-###_forallx: the Mississippi State edition_###
+####_forallx: the Mississippi State edition_####
 
-<br>
 
 <img src="https://loighic.net/assets/img/forallx-msu-cover.jpg" width="220" />
 
