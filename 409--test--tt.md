@@ -6,7 +6,6 @@
 0.2 (S -> R) <-> P, S :|-: P & R
 ~~~
 
-
 &copy; 2021 Gregory Johnson 
 
 ---
