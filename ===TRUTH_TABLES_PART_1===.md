@@ -2,6 +2,6 @@
 
 ---
 
-Each homework assignment is worth 100 points but will be converted to a 10-point scale in Canvas.
+Start with the 'truth tables, HW 01 assignment' (tt_HW01--characteristic_tts.md). (It's the next link in your list.)
 
 ---
