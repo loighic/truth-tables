@@ -18,6 +18,4 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p> 
 
-:)
-
 ---
