@@ -3,9 +3,9 @@
 
 Each problem is worth 10 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 8 points. Your grade will be put on a 10 point scale when it is posted in Canvas.  
 
-For the truth tables, determine the truth values for each sentence or pair of sentences. Each of the multiple choice questions is about the truth table right before it. The multiple choice questions can only answered once, and, except for the first one, they cannot be checked.
+For the truth tables, determine the truth values for each sentence or pair of sentences. Each of the multiple choice questions is about the truth table right before it. **The multiple choice questions can only answered once, and, except for the first one, they cannot be checked.**
 
-Except for the first one, the multiple choice questions cannot be checked before they are submitted. Be sure to submit each problem. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
+Be sure to submit each problem. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
 
 ---
 
@@ -72,6 +72,17 @@ Except for the first one, the multiple choice questions cannot be checked before
 | The sentences are jointly consistent (but not equivalent).
 ~~~
 
-&copy; 2023 Gregory Johnson 
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" points="10" late-credit="8"}
+4.11 ~(P v Q) :|-: ~P & Q
+~~~
+
+~~~{.QualitativeProblem .MultipleChoice options="check" points="10" late-credit="8"}
+4.12 Which one of the following is correct about &not;(P &or; Q) &vdash; &not;P & Q, the argument in the previous problem?
+| This argument is valid.
+|* This  argument is invalid.
+~~~
+
+
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
 ---
