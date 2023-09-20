@@ -1,4 +1,4 @@
-## truth tables, assignment 03 (in-class)
+## truth tables, assignment 04 (in-class)
  
 
 For the truth tables, determine the truth values for each sentence or pair of sentences. Each of the multiple choice questions is about the truth table right before it. **The multiple choice questions can only answered once, and, except for the first one and last one, they cannot be checked.**
@@ -71,7 +71,7 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 ~~~
 
 
-In 4.11, there is one "bad line;" that is, a line where the premise is true and the conclusion is false. None of the other lines violate the definition of *validity*.
+In 4.11, there is one "bad line;" that is, a line where the premise is true and the conclusion is false. None of the other lines violate the definition of *validity*, and so they are all good lines.
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" points="10" late-credit="8"}
 4.11 ~(P v Q) :|-: ~P & Q
