@@ -72,16 +72,6 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 | The sentences are jointly consistent (but not equivalent).
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" points="10" late-credit="8"}
-4.11 ~(P v Q) :|-: ~P & Q
-~~~
-
-~~~{.QualitativeProblem .MultipleChoice options="check" points="10" late-credit="8"}
-4.12 Which one of the following is correct about &not;(P &or; Q) &vdash; &not;P & Q, the argument in the previous problem?
-| This argument is valid.
-|* This  argument is invalid.
-~~~
-
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
