@@ -1,6 +1,6 @@
 ## truth tables, assignment 05 (in-class)
 
-
+ 
 For the truth tables, determine the truth values for each sentence, and then indicate whether the line is a good or a bad one by putting a `✓` or an `✗` under the turnstile. Each of the multiple choice questions is about the truth table right before it.
 
 5.6, 5.8, and 5.10 can't be checked before they are submitted. Be sure to submit each problem. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
@@ -51,11 +51,11 @@ For the truth tables, determine the truth values for each sentence, and then ind
 
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash autoAtoms" points="10" late-credit="8"}
-5.9 P -> ~(R & Q), ~(R v Q), Q -> P
+5.9 P -> ~(R & Q), ~(R v Q) :|-: Q -> P
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="10" late-credit="8"}
-5.10 Which one of the following is correct about P &rarr; Q &vdash; &not;Q & P, the argument in the previous problem?
+5.10 Which one of the following is correct about the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
