@@ -12,7 +12,7 @@ For the truth tables, determine the truth values for each sentence, and then ind
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" points="10" late-credit="8"}
-5.2 Which one of the following is correct about ... the argument in the previous problem?
+5.2 Which one of the following is correct about the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
@@ -44,7 +44,7 @@ For the truth tables, determine the truth values for each sentence, and then ind
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="10" late-credit="8"}
-5.8 Which one of the following is correct about P & Q &vdash; Q &rarr; P, the argument in the previous problem?
+5.8 Which one of the following is correct about the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
