@@ -7,8 +7,8 @@
 
 ---
 
-<img src="https://loighic.net/assets/img/forallx-msu-cover.jpg" width="220" />
+<img src="https://loighic.net/assets/img/forallx-msu-cover.png" width="220" />
 
-Purchase it on [lulu.com](https://www.lulu.com/shop/gregory-johnson/forallx/paperback/product-4emmmj.html?page=1&pageSize=4).
+Purchase it on [amazon.com](https://www.amazon.com/forallx-Mississippi-Logic-Machine-Shop/dp/B0CRBKG23D/).
 
 ---
