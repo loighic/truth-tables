@@ -3,7 +3,7 @@
 
 For the truth tables, determine the truth values for each sentence or pair of sentences. Each of the multiple choice questions is about the truth table right before it. The multiple choice questions can only answered once, and, except for the first one, they cannot be checked.
 
-Except for the first one, the multiple choice questions cannot be checked before they are submitted. Be sure to submit each problem. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
+Be sure to submit each problem. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
 
 ---
 
