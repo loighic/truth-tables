@@ -1,7 +1,7 @@
 ## truth tables, assignment 04 (in-class)
  
 
-For the truth tables, determine the truth values for each sentence or pair of sentences. Each of the multiple choice questions is about the truth table right before it. **The multiple choice questions can only answered once, and, except for the first one and last one, they cannot be checked.** 
+For the truth tables, determine the truth values for each sentence or pair of sentences. Each of the multiple choice questions is about the truth table right before it. **The multiple choice questions can only answered once, and, except for the first one, they cannot be checked.** 
 
 Be sure to submit each problem. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
 
@@ -76,7 +76,7 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 4.11 ~(P <-> Q), ((P -> Q) & (Q -> P))
 ~~~
 
-~~~{.QualitativeProblem .MultipleChoice options="check" points="7" late-credit="5"}
+~~~{.QualitativeProblem .MultipleChoice options="exam" points="7" late-credit="5"}
 4.12 Which one of the following is correct about the sentences in the previous problem?
 | The sentences are equivalent.
 |* The sentences are jointly inconsistent.
