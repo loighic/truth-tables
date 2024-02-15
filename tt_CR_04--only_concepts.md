@@ -73,7 +73,7 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" points="10" late-credit="8"}
-4.11 ~(P <-> Q), (P -> Q) & (Q -> P)
+4.11 ~(P <-> Q), ((P -> Q) & (Q -> P))
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" points="7" late-credit="5"}
