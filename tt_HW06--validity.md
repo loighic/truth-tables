@@ -32,13 +32,13 @@ Remember, an argument is `valid` when it is the case that if the premises are tr
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="20" late-credit="16"}
 6.4 (P & Q) -> R :|-: P -> R
-6.4 (A v B) <-> C :|-: A <-> C
+6.4 (M v P) <-> T :|-: M <-> T
 6.4 (P -> Q) v R :|-: P <-> R
 ~~~
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash autoAtoms" points="20" late-credit="16"}
 6.5 (P v Q) -> R, ~Q :|-: P->R
-6.5 (A v ~B) -> C, B :|-: A->C
+6.5 (M v ~P) -> T, P :|-: M->T
 6.5 (P & T) -> ~R, T :|-: P->R
 ~~~
 
