@@ -19,7 +19,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 
-Remember, an argument is `valid` when it is the case that if the premises are true, then the conclusion has to be true. When you are checking for good and bad lines, you are looking for violations of that definition. See chapter 11. 
+Remember, an argument is `valid` when it is the case that if the premises are true, then the conclusion has to be true. When you are checking for good and bad lines, you are looking for violations of that definition. See chapter 10. 
 
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="20" late-credit="16"}
