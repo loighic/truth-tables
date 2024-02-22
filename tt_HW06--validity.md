@@ -15,7 +15,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="20" late-credit="16"}
 6.2 (P v Q), ~P :|-: Q & P
 6.2 (S v T), ~S :|-: ~T & S
-6.2 (A v B), A :|-: ~B & A
+6.2 (M v P), M :|-: ~P & M
 ~~~
 
 
@@ -44,6 +44,5 @@ Remember, an argument is `valid` when it is the case that if the premises are tr
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
-:)
 
 ---
