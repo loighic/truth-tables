@@ -115,6 +115,6 @@ For each, indicate whether the line is a good or a bad one by putting a `✓` or
 |   F F F      F T F      F T F   -   F F F
 ~~~
 
-&copy; 2023 Gregory Johnson
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
 ---
