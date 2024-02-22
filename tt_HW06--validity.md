@@ -44,4 +44,6 @@ Remember, an argument is `valid` when it is the case that if the premises are tr
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
+:)
+
 ---
