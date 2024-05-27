@@ -17,13 +17,13 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" submission="none"}
-0.3 S :|-: S v T
+0.3 S :|-: S -> ~T
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.4 Which one of the following is correct about S &vdash; S v T, the argument in the previous problem?
-|* This argument is valid.
-| This  argument is invalid.
+0.4 Which one of the following is correct about S &vdash; S &rarr; &not;T, the argument in the previous problem?
+| This argument is valid.
+|* This  argument is invalid.
 ~~~
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" submission="none"}
