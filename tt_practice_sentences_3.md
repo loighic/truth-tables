@@ -9,7 +9,7 @@ These are optional, and you can work on them with others. They won't count as pa
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.2 Which one of the following is correct about (&not;P & &not;Q) -> &not;Q, the sentence in the previous problem?
+0.2 Which one of the following is correct about (&not;P & &not;Q) &rarr; &not;Q, the sentence in the previous problem?
 |* This sentence is a tautology.
 | This sentence is a contradiction.
 | This sentence is contingent.
@@ -31,7 +31,7 @@ These are optional, and you can work on them with others. They won't count as pa
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.6 Which one of the following is correct about &not;((P v R) v Q), the sentence in the previous problem?
+0.6 Which one of the following is correct about &not;((P &rarr; R) &rarr; Q), the sentence in the previous problem?
 | This sentence is a tautology.
 |* This sentence is a contradiction.
 | This sentence is contingent.
@@ -66,7 +66,7 @@ These are optional, and you can work on them with others. They won't count as pa
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.12 Which one of the following is correct about &not;(P v Q) and &not;P -> Q, the sentences in the previous problem?
+0.12 Which one of the following is correct about &not;(P v Q) and &not;P &rarr; Q, the sentences in the previous problem?
 | The sentences are equivalent.
 |* The sentences are jointly inconsistent.
 | The sentences are jointly consistent (but not equivalent).
