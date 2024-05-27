@@ -1,8 +1,8 @@
-## truth tables, practice problems 3
+## truth tables, practice problems 4
 
 These are optional problems, and you can work on them with others. They won't count as part of your grade, and they can't be submitted. But you can check whether you have done them correctly.
 
-Determine the truth values for each sentence, and then indicate whether the line is a good or a bad one by putting a `✓` or an `✗` under the turnstile. See sections 11.1 and 11.2 in <i>forallx</i> for futher explanation. 
+Determine the truth values for each sentence, and then indicate whether the line is a good or a bad one by putting a `✓` or an `✗` under the turnstile. See sections 10.1 and 10.2 in <i>forallx</i> for futher explanation. 
 
 ---
 
@@ -27,21 +27,21 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" submission="none"}
-0.5 A <-> ~C :|-: C -> ~A
+0.5 P <-> ~Q :|-: Q -> ~P
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.6 Which one of the following is correct about A &LeftRightArrow; ~C &vdash; C &rarr; ~A, the argument in the previous problem?
+0.6 Which one of the following is correct about P &LeftRightArrow; ~Q &vdash; Q &rarr; ~P, the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" submission="none"}
-0.7 A <-> ~C :|-: C -> A
+0.7 P <-> ~Q :|-: Q -> P
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.8 Which one of the following is correct about A &LeftRightArrow; ~C &vdash; C &rarr; A, the argument in the previous problem?
+0.8 Which one of the following is correct about P &LeftRightArrow; ~Q &vdash; Q &rarr; P, the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
@@ -66,6 +66,6 @@ Determine the truth values for each sentence, and then indicate whether the line
 |* This  argument is invalid.
 ~~~
 
-&copy; 2021 Gregory Johnson 
+<p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
 ---
