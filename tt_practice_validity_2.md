@@ -56,6 +56,6 @@ Determine the truth values for each sentence, and then indicate whether the line
 | This  argument is invalid.
 ~~~
 
-&copy; 2021 Gregory Johnson 
+<p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p> 
 
 ---
