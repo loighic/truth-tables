@@ -7,17 +7,17 @@ These are optional, and you can work on them with others. They won't count as pa
 __Part 1__
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" submission="none"}
-0.1 ((A v ~A) & (A v B))
-0.2 (~(A & B) & (A v B))
-0.3 (A -> (B & C))
-0.4 ((A v C) -> (B & C))
+0.1 ((P v ~P) & (P v Q))
+0.2 (~(P & Q) & (P v Q))
+0.3 (P -> (Q & S))
+0.4 ((P v S) -> (Q & S))
 ~~~
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms" submission="none"}
-0.5 ((A v C) <-> ~B)
+0.5 ((P v S) <-> ~Q)
 0.6 (~R -> ~T)
-0.7 ~(B & (~C <-> B))
-0.8 ~((D <-> ~G) v ~D)
+0.7 ~(Q & (~S <-> Q))
+0.8 ~((M <-> ~G) v ~M)
 ~~~
 
 ---
@@ -82,11 +82,11 @@ __Part 2__
 
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms" submission="none"}
-0.19 ~(A v B), ~A -> B
+0.19 ~(P v Q), ~P -> Q
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.20 Which one of the following is correct about ~(A v B) and ~A -> B, the sentences in the previous problem?
+0.20 Which one of the following is correct about ~(P v Q) and ~P -> Q, the sentences in the previous problem?
 | The sentences are equivalent.
 |* The sentences are jointly inconsistent.
 | The sentences are jointly consistent (but not equivalent).
