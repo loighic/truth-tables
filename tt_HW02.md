@@ -18,12 +18,12 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 2.3 ~(P & Q)
 2.3 ~(T v S)
 2.3 ~(M -> N)
-2.4 A v (A & C)
+2.4 G v (G & H)
 2.4 M & (M v N)
-2.5 A -> (~C v C)
+2.5 G -> (~H v H)
 2.5 M <-> (N v ~N)
 ~~~
 
-&copy; 2023 Gregory Johnson 
+<p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
 ---
