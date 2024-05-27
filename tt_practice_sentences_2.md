@@ -8,7 +8,7 @@ These are optional, and you can work on them with others. They won't count as pa
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" submission="none"}
 0.1 ((P v ~P) & (P v Q))
 0.2 (~(P & Q) & (P v Q))
-0.3 (~P <-> ((S v P) -> ~S)
+0.3 (~P <-> ((S v P) -> ~S))
 0.4 (P -> (Q & S))
 0.5 ((P v S) -> (Q & S))
 ~~~
