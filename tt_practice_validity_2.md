@@ -1,4 +1,4 @@
-## truth tables, practice problems 4
+## truth tables, practice problems 5
 
 These are optional problems, and you can work on them with others. They won't count as part of your grade, and they can't be submitted. But you can check whether you have done them correctly.
 
@@ -7,31 +7,31 @@ Determine the truth values for each sentence, and then indicate whether the line
 ---
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" submission="none"}
-0.13 A <-> C, B & ~C :|-: A
+0.13 P <-> S, Q & ~S :|-: P
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.14 Which one of the following is correct about A &LeftRightArrow; C, B & ~C &vdash; A, the argument in the previous problem?
+0.14 Which one of the following is correct about P &LeftRightArrow; S, Q & ~S &vdash; P, the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" submission="none"}
-0.15 A <-> ~C, B & ~C :|-: A v C
+0.15 P <-> ~S, Q & ~S :|-: P v S
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.16 Which one of the following is correct about A &LeftRightArrow; ~C, B & ~C &vdash; A v C, the argument in the previous problem?
+0.16 Which one of the following is correct about P &LeftRightArrow; ~S, Q & ~S &vdash; P v S, the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" submission="none"}
-0.17 A <-> ~C, B & ~C :|-: A & C
+0.17 P <-> ~S, Q & ~S :|-: P & S
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.18 Which one of the following is correct about A &LeftRightArrow; ~C, B & ~C &vdash; A & C, the argument in the previous problem?
+0.18 Which one of the following is correct about P &LeftRightArrow; ~S, Q & ~S &vdash; P & S, the argument in the previous problem?
 | This argument is valid.
 |* This  argument is invalid.
 ~~~
@@ -47,11 +47,11 @@ Determine the truth values for each sentence, and then indicate whether the line
 ~~~
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" submission="none"}
-0.21 A <-> ~C, ~C, B :|-: A & B
+0.21 P <-> ~S, ~S, Q :|-: P & Q
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.22 Which one of the following is correct about A &LeftRightArrow; ~C, ~C, B &vdash; A & B, the argument in the previous problem?
+0.22 Which one of the following is correct about P &LeftRightArrow; ~S, ~S, Q &vdash; P & Q, the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
