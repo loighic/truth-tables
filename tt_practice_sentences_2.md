@@ -104,6 +104,6 @@ __Part 2__
 | The sentences are jointly consistent (but not equivalent).
 ~~~
 
-&copy; 2021 Gregory Johnson 
+<p>&copy; 2019 - <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
 ---
