@@ -1,4 +1,4 @@
-## truth tables, practice problems 5
+## truth tables, practice problems, set 5
 
 These are optional problems, and you can work on them with others. They won't count as part of your grade, and they can't be submitted. But you can check whether you have done them correctly.
 
