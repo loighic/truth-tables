@@ -1,8 +1,10 @@
 ## truth tables, assignment 3 (at-home)
 
+---
+
 Each problem is worth 20 points, and the whole assignment is worth 100 points. 
 
-**Do this alone, and don't discuss it with anyone who hasn't finished it.**
+<span style="color:blue">**Do this alone, and don't discuss it with anyone who hasn't done it.**</span>
 
 Be sure to submit each problem. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
 
