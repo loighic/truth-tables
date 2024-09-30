@@ -1,5 +1,6 @@
 ## truth tables HW 4
 
+---
 
 Each problem is worth 10 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 8 points. Your grade will be put on a 10 point scale when it is posted in Canvas.  
 
