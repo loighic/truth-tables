@@ -1,4 +1,4 @@
-## truth tables, assignment 3 (at-home)
+## truth tables, assignment 4 (at-home)
 
 ---
 
@@ -11,11 +11,11 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 ---
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="20" late-credit="16"}
-3.1 (R <-> ~S)
-3.2 P <-> (P & Q) 
-3.3 (P <-> R) v ~R
-3.4 (R <-> (S & T))
-3.5 ((P v ~Q) -> T)
+4.1 (R <-> ~S)
+4.2 P <-> (P & Q) 
+4.3 (P <-> R) v ~R
+4.4 (R <-> (S & T))
+4.5 ((P v ~Q) -> T)
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p> 
