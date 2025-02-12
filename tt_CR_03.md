@@ -13,7 +13,7 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="20" late-credit="16"}
 4.1 (R <-> ~S)
 4.2 P <-> (P & Q) 
-4.3 (P <-> R) v ~R
+4.3 ~(P <-> R) v ~R
 4.4 (R <-> (S & T))
 4.5 ((P v ~Q) -> T)
 ~~~
