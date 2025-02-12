@@ -1,4 +1,4 @@
-## truth tables, assignment 04 (in-class)
+## truth tables, chapter 9 assignment (in-class)
  
 
 For the truth tables, determine the truth values for each sentence or pair of sentences. Each of the multiple choice questions is about the truth table right before it. **The multiple choice questions can only answered once, and, except for the first one, they cannot be checked.** 
