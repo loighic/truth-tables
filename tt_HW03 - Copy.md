@@ -6,7 +6,7 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 
 ---
 
-~~~{.TruthTable .Simple system="JohnsonSL" options="nocounterexample" points="20" late-credit="16"}
+~~~{.TruthTable .Simple .JohnsonSL options="nocounterexample" points="20" late-credit="16"}
 3.1 P <-> (P & Q) 
 3.1 S -> (S v T)
 3.1 R <-> (R v Q)
