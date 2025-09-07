@@ -8,7 +8,13 @@ Be sure to submit each problem. The `✓` in the green bar or box indicates that
 
 **Part 1**
 
-Type the main logical operator for the given TFL sentence in the space provided. (Use ~, v, & , ->, and <->.) Hit `enter` (not &ldquo;Submit&rdquo;). Type the main logical operator for the TFL sentence in red. Hit `enter`. Repeat until finished. **Then submit the problem.**
+(a) Type the main logical operator for the given TFL sentence in the space provided. (Use ~, v, & , ->, and <->.) 
+
+(b) Hit `enter` (not &ldquo;Submit&rdquo;). 
+
+(c) Type the main logical operator for the TFL sentence in red. Hit `enter`. 
+
+(d) Repeat until finished. **Then submit the problem.**
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="9"}
 1.1 (P v T) & R
