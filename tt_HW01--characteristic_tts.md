@@ -12,8 +12,8 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="9"}
 1.1 (P v T) & R
 1.2 ~(M & T) <-> S
-1.3 (S -> (T v Q)) -> ~W
-1.4 S -> ~((M & Q) <-> W)
+1.3 (S <-> (T v Q)) -> ~W
+1.4 S -> ~((M & Q) <-> T)
 ~~~
 
 ---
