@@ -28,13 +28,13 @@ For 1.1 - 1.4, first, type the main logical operator for the given TFL sentence 
 1.8 P <-> Q
 ~~~
 
-Identify the main logical operator of &neg;(P & Q) and then the main logical operator of any sub-sentences.
+Identify the main logical operator of &not;(P & Q) and then the main logical operator of any sub-sentences.
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="9"}
 1.9 ~P & Q
 ~~~
 
-You can use the previous problem as a guide for completing this truth table. Start from the bottom of the box, and fill in the column under each sentence letter and logical operator.
+You can use the previous problem as a guide for completing this truth table. Start from the bottom of the box and work up, filling in the column under each sentence letter and logical operator.
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="9"}
 1.10 ~P & Q
