@@ -8,7 +8,7 @@ Be sure to submit each problem. The `✓` in the green bar or box indicates that
 
 **Part 1**
 
-For 1.1 - 1.4, first, type the main logical operator for the given TFL sentence in the space provided. (Use ~, v, & , ->, and <->.) Hit `enter` (not ''Submit''). Type the main logical operator for the TFL sentence in red. Hit `enter`. Repeat until finished. **Then submit the problem.**
+For 1.1 - 1.4, first, type the main logical operator for the given TFL sentence in the space provided. (Use ~, v, & , ->, and <->.) Hit `enter` (not &ldquo;Submit&rdquo;). Type the main logical operator for the TFL sentence in red. Hit `enter`. Repeat until finished. **Then submit the problem.**
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="9"}
 1.1 (P v T) & R
