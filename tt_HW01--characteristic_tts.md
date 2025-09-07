@@ -2,12 +2,13 @@
 
 Each problem is worth 10 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 9 points. Your grade will be put on a 10 point scale when it is posted in Canvas.  
 
-Be sure to submit each problem. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
+Be sure to submit each problem. The `✓` in the green bar or box indicates that the problem has been checked, not that it has been submitted.
 
 ---
 
 **Part 1**
 
+For 1.1 - 1.4, first, type the main logical operator for the given TFL sentence in the space provided. (Use ~, v, & , ->, and <->.) Hit `enter` (not ''Submit''). Type the main logical operator for the TFL sentence in red. Hit `enter`. Repeat until finished. **Then submit the problem.**
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="9"}
 1.1 (P v T) & R
@@ -27,9 +28,13 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 1.8 P <-> Q
 ~~~
 
+Identify the main logical operator of &neg;(P & Q) and then the main logical operator of any sub-sentences.
+
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="9"}
 1.9 ~P & Q
 ~~~
+
+You can use the previous problem as a guide for completing this truth table. Start from the bottom of the box, and fill in the column under each sentence letter and logical operator.
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="9"}
 1.10 ~P & Q
