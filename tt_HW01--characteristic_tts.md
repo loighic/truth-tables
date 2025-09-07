@@ -9,7 +9,7 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 **Part 1**
 
 
-~~~{.SynChecker .Match  points="10" late-credit="9"} 
+~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="9"}
 1.1 (P v T) & R
 1.2 ~(M & T) <-> S
 1.3 (S -> (T v Q)) -> ~W
@@ -27,7 +27,7 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 1.8 P <-> Q
 ~~~
 
-~~~{.SynChecker .Match  points="10" late-credit="9"}
+~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="9"}
 1.9 ~P & Q
 ~~~
 
