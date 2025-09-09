@@ -32,7 +32,7 @@ Repeat until finished.<br>
 1.8 P <-> Q
 ~~~
 
-Identify the main logical operator of &not;(P & Q) and then the main logical operator of any sub-sentences.
+Identify the main logical operator of (&not;P & Q) and then the main logical operator of any sub-sentences.
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="9"}
 1.9 ~P & Q
