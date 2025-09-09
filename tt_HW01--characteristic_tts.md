@@ -42,8 +42,6 @@ Identify the main logical operator of (&not;P & Q) and then the main logical ope
 
 You can use the previous problem as a guide for completing this truth table. First, fill in the columns under the atomic sentences. Then, fill in the columns under the logical operators in the ***reverse order*** that you selected them above. (That is, first, fill in the column under the one that you entered last. Then, the one that you entered second-to-last, etc.)
 
-Start from the bottom of the box (above) and fill in the column under each sentence letter and logical operator .
-
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="9"}
 1.10 ~P & Q
 ~~~
