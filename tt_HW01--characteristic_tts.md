@@ -25,6 +25,8 @@ Repeat until finished.<br>
 
 **Part 2**
 
+Complete the truth table. Check it, and when it is correct, submit it.
+
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="9"}
 1.5 P & Q
 1.6 P -> Q
