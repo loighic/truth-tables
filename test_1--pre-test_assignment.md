@@ -1,8 +1,8 @@
-## MLO assignment
+## MLO & scope assignment
 
 Each problem is worth 10 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 9 points. Your grade will be put on a 10 point scale when it is posted in Canvas.  
 
-Be sure to submit each problem. The `✓` in the green bar or box indicates that the problem has been checked, not that it has been submitted. :)
+Be sure to submit each problem. The `✓` in the green bar or box indicates that the problem has been checked, not that it has been submitted.
 
 ---
 
@@ -11,6 +11,12 @@ Hit `enter` (not &ldquo;Submit&rdquo;).<br>
 Type the main logical operator for the TFL sentence in red. Hit `enter`.<br> 
 Repeat until finished.<br>
 **Then submit the problem.**
+
+---
+
+Keep in mind that the main logical operator for the (entire) TFL sentence that you are given is the first operator that type in the space. Then you are identifying the MLO for sub-sentences of that sentence. 
+
+---
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="9"}
 1.1 (P -> S) & W
