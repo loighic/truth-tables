@@ -14,7 +14,7 @@ Repeat until finished.<br>
 
 ---
 
-Keep in mind that the main logical operator for the (entire) TFL sentence that you are given is the first operator that you type in the space provided. Then you are identifying the MLO for sub-sentences of that sentence. 
+Keep in mind that the main logical operator for the (entire) TFL sentence that you are given is the first operator that you type in the space provided. After you do that, you are identifying the MLO for sub-sentences of that sentence. 
 
 ---
 
