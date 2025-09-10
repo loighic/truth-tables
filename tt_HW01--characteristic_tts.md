@@ -10,7 +10,7 @@ Be sure to submit each problem. The `✓` in the green bar or box indicates that
 
 Type the main logical operator for the given TFL sentence in the space provided. (Use ~, v, & , ->, and <->.)<br>
 Hit `enter` (not &ldquo;Submit&rdquo;).<br> 
-Type the main logical operator for the TFL sentence in red. Hit `enter`.<br> 
+Type the main logical operator for the sub-sentence that's in red. Hit `enter`.<br> 
 Repeat until finished.<br>
 **Then submit the problem.**
 
