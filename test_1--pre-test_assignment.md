@@ -2,7 +2,7 @@
 
 Each problem is worth 10 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 9 points. Your grade will be put on a 10 point scale when it is posted in Canvas.  
 
-Be sure to submit each problem. The `✓` in the green bar or box indicates that the problem has been checked, not that it has been submitted.
+Be sure to submit each problem.
 
 ---
 
