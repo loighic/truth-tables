@@ -2,7 +2,7 @@
 
 The whole assignment is worth 102 points. Your grade will be put on a 10 point scale when it is posted in Canvas.
 
-Be sure to submit each problem. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
+Be sure to submit each problem.
 
 ---
 
