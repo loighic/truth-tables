@@ -2,7 +2,7 @@
 
 The whole assignment is worth 102 points. Your grade will be put on a 10 point scale when it is posted in Canvas.
 
-Be sure to submit each problem.
+**You have plenty of time. Work as a group. Make sure that everyone in your group (all three or four of you) understands how to do the problems and has completed each pair before you move on to the next pair.**
 
 ---
 
