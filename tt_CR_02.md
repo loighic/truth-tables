@@ -16,6 +16,8 @@ Repeat until finished.<br>
 
 For the even numbered problems, complete the truth table. Be sure to submit each one. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
 
+---
+
 ~~~{.SynChecker .Match system="magnusSL"  points="8" late-credit="6"}
 2.1 (R & ~T)
 ~~~
@@ -47,6 +49,7 @@ For the even numbered problems, complete the truth table. Be sure to submit each
 ~~~{.SynChecker .Match system="magnusSL"  points="8" late-credit="6"}
 2.9 R -> (S & T)
 ~~~
+~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="9" late-credit="7"}
 2.10 R -> (S & T)
 ~~~
 
