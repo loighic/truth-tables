@@ -20,38 +20,38 @@ For the even numbered problems, complete the truth table. Be sure to submit each
 
 ---
 
-~~~{.SynChecker .Match system="magnusSL"  points="8" late-credit="6"}
+~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="8"}
 3.1 (R <-> ~S)
 ~~~
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="20" late-credit="16"}
+~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
 3.2 (R <-> ~S)
 ~~~
 
-~~~{.SynChecker .Match system="magnusSL"  points="8" late-credit="6"}
+~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="8"}
 3.3 P <-> (P & Q)
 ~~~
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="20" late-credit="16"}
+~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
 3.4 P <-> (P & Q)
 ~~~
 
-~~~{.SynChecker .Match system="magnusSL"  points="8" late-credit="6"}
+~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="8"}
 3.5 ~(P <-> R) v ~R
 ~~~
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="20" late-credit="16"}
+~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
 3.6 ~(P <-> R) v ~R
 ~~~
 
-~~~{.SynChecker .Match system="magnusSL"  points="8" late-credit="6"}
+~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="8"}
 3.7 (R <-> (S & T))
 ~~~
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="20" late-credit="16"}
+~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
 3.8 (R <-> (S & T))
 ~~~
 
-~~~{.SynChecker .Match system="magnusSL"  points="8" late-credit="6"}
+~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="8"}
 3.9 ((P v ~Q) -> T)
 ~~~
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="20" late-credit="16"}
+~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
 3.10 ((P v ~Q) -> T)
 ~~~
 
