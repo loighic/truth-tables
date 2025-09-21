@@ -51,7 +51,7 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="7" late-credit="5"}
-4.8 Which one of the following is correct about &not;(P &rarr; Q) and (&not;P &rarr; &not;Q), the sentences in the previous problem?
+4.8 Which one of the following is correct about &not;(P & Q) and (&not;P & &not;Q), the sentences in the previous problem?
 | The sentences are equivalent.
 | The sentences are jointly inconsistent.
 |* The sentences are jointly consistent (but not equivalent).
@@ -64,7 +64,7 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="7" late-credit="5"}
-4.10 Which one of the following is correct about P &rarr; Q and &not;(P & &not;Q), the sentences in the previous problem?
+4.10 Which one of the following is correct about (&not;P &or; Q) and (P & Q), the sentences in the previous problem?
 | The sentences are equivalent.
 |* The sentences are jointly inconsistent.
 | The sentences are jointly consistent (but not equivalent).
@@ -77,7 +77,7 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="7" late-credit="5"}
-4.12 Which one of the following is correct about &not;(P &LeftRightArrow; Q), ((P &rarr; Q) & (Q &rarr; P)), the sentences in the previous problem?
+4.12 Which one of the following is correct about &not;(P & Q), (&not;P &or; Q), the sentences in the previous problem?
 |* The sentences are equivalent.
 | The sentences are jointly inconsistent.
 | The sentences are jointly consistent (but not equivalent).
