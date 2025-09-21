@@ -4,24 +4,26 @@ Each problem is worth 20 points, and the whole assignment is worth 100 points. P
 
 Be sure to submit each problem. 
 
-The first one (4.13) can be checked before submitting. The other five (4.14 - 4.18) cannot be checked. (Checked by Carnap, that is. You can and should check and double-check them before submitting.)
+The first truth table can be checked before submitting. The other five (4.02 - 4.06) cannot be checked. (Checked by Carnap, that is. You can and should check and double-check them before submitting.)
+
+Some of the truth tables that you'll do on test 2 will not be checkable. 
 
 ---
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="85" late-credit="65"}
-4.13 (P v ~Q)
+5.01 (P v ~Q)
 ~~~
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample nocheck exam" points="3" late-credit="2"}
-4.14 (R & ~T)
-4.15 (R <-> ~S)
-4.16 ~(P & Q)
-4.16 ~(T v S)
-4.16 ~(M -> N)
-4.17 G v (G & H)
-4.17 M & (M v N)
-4.18 G -> (~H v H)
-4.18 M <-> (N v ~N)
+5.02 (R & ~T)
+5.03 (R <-> ~S)
+5.04 ~(P & Q)
+5.04 ~(T v S)
+5.04 ~(M -> N)
+5.05 G v (G & H)
+5.05 M & (M v N)
+5.06 G -> (~H v H)
+5.06 M <-> (N v ~N)
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
