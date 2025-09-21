@@ -25,7 +25,7 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="7" late-credit="5"}
-4.4 Which one of the following is correct about (P &LeftRightArrow; &not;Q) & (P &LeftRightArrow; Q), the sentence in the previous problem?
+4.4 Which one of the following is correct about (P &or; &not;Q) & (Q &LeftRightArrow; &not;P), the sentence in the previous problem?
 | This sentence is a tautology.
 | This sentence is a contradiction.
 |* This sentence is contingent.
@@ -38,7 +38,7 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="7" late-credit="5"}
-4.6 Which one of the following is correct about (P & Q) &rarr; (&not;P &rarr; Q), the sentence in the previous problem?
+4.6 Which one of the following is correct about (P & Q) &LeftRightArrow; (&not;Q &or; &not;P), the sentence in the previous problem?
 | This sentence is a tautology.
 |* This sentence is a contradiction.
 | This sentence is contingent.
@@ -47,7 +47,7 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
-4.7 ~(P & Q), ~P & ~Q~
+4.7 ~(P & Q), ~P & ~Q
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="7" late-credit="5"}
