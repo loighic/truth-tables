@@ -5,7 +5,7 @@ For the truth tables, determine the truth values for each sentence or pair of se
 
 Be sure to submit each problem. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
 
----&or; &not; &rarr; &LeftRightArrow;
+---
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
 4.1 (~Q & P) -> P
@@ -64,7 +64,7 @@ Be sure to submit each problem. The `✓` in the green bar indicates that the pr
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="exam" points="7" late-credit="5"}
-4.10 Which one of the following is correct about (&not;P &or; Q) and (P & Q), the sentences in the previous problem?
+4.10 Which one of the following is correct about (&not;P &or; &not;Q) and (P & Q), the sentences in the previous problem?
 | The sentences are equivalent.
 |* The sentences are jointly inconsistent.
 | The sentences are jointly consistent (but not equivalent).
