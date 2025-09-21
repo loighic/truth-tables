@@ -5,14 +5,14 @@ For the truth tables, determine the truth values for each sentence or pair of se
 
 Be sure to submit each problem. The `✓` in the green bar indicates that the problem has been checked, not that it has been submitted.
 
----
+---&or; &not; &rarr; &LeftRightArrow;
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
 4.1 (~Q & P) -> P
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" points="7" late-credit="5"}
-4.2 Which one of the following is correct about (P &or; Q) & (&not;P &rarr; Q), the sentence in the previous problem?
+4.2 Which one of the following is correct about (&not;Q & P) &rarr; P, the sentence in the previous problem?
 |* This sentence is a tautology.
 | This sentence is a contradiction.
 | This sentence is contingent.
