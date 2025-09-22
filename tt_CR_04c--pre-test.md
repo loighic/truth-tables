@@ -1,12 +1,12 @@
 ## truth tables, chapter 8 assignment (at-home)
 
-Each problem is worth 20 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 16 points. Your grade will be put on a 10 point scale when it is posted in Canvas.
+---
 
 Be sure to submit each problem. 
 
-The first truth table can be checked before submitting. The other five (4.02 - 4.06) cannot be checked. (Checked by Carnap, that is. You can and should check and double-check them before submitting.)
+The first truth table can be checked before submitting. The other five (4.02 - 4.06) cannot be checked. (Checked by Carnap, that is. You can and should check and double-check each of them before submitting.)
 
-Some of the truth tables that you'll do on test 2 will not be checkable. 
+Some of the truth tables that you'll do on test 2 won't have the Carnap check feature. 
 
 ---
 
