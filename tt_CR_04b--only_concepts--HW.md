@@ -1,5 +1,8 @@
 ## truth tables, chapter 9 assignment (at-home)
- 
+
+---
+
+<span style="color:blue">**Do this alone, and don't discuss it with anyone who hasn't done it.**</span>
 
 For the truth tables, determine the truth values for each sentence or pair of sentences. Each of the multiple choice questions is about the truth table right before it. **The multiple choice questions can only answered once, and, except for the first one, they cannot be checked.** 
 
