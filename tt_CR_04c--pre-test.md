@@ -2,6 +2,8 @@
 
 ---
 
+<span style="color:blue">**Do this alone, and don't discuss it with anyone who hasn't done it.**</span>
+
 Be sure to submit each problem. 
 
 The first truth table can be checked before submitting. The other five (4.02 - 4.06) cannot be checked. (Checked by Carnap, that is. You can and should check and double-check each of them before submitting.)
