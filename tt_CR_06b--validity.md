@@ -99,7 +99,7 @@ For each, indicate whether the line is a good or a bad one by putting a `✓` or
 |   F F F   F T F   F T T   -   F T T
 |   F F F   F T F   F T F   -   F F F
 
-7.16 M v N, M -> S, N -> T :|-: S & T
+7.15 M v N, M -> S, N -> T :|-: S & T
 |   T T T      T T T      T T T   -   T T T
 |   T T T      T T T      T F F   -   T F F
 |   T T T      T F F      T T T   -   F F T
