@@ -2,6 +2,6 @@
 
 ---
 
-We will begin using this site after test 1. 
+We will begin using this site right before test 1. 
 
 ---
