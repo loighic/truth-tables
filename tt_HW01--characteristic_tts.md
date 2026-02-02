@@ -11,7 +11,7 @@ Be sure to submit each problem. The `✓` in the green bar or box indicates that
 Type the main logical operator for the given TFL sentence in the space provided. (Use ~, v, & , ->, and <->.)<br>
 Hit `enter` (not &ldquo;Submit&rdquo;).<br> 
 Type the main logical operator for the sub-sentence that's in red. Hit `enter`.<br> 
-Repeat until finished (when the box turns green and the check mark appears).<br>
+Repeat until finished. (You're finished when the box turns green and the check mark appears).<br>
 **Then submit the problem.**
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="9"}
@@ -40,7 +40,7 @@ Identify the main logical operator of (&not;P & Q) and then the main logical ope
 1.9 ~P & Q
 ~~~
 
-You can use the previous problem as a guide for completing this truth table. First, fill in the columns under the atomic sentences. Then, fill in the columns under the logical operators in the ***reverse order*** that you selected them above. (That is, first, fill in the column under the one that you entered last. Then, the one that you entered second-to-last, etc.)
+You can use the previous problem as a guide for completing this truth table. First, fill in the columns under the atomic sentences. Then, fill in the columns under the logical operators in the ***reverse order*** that you selected them above. (That is, first, fill in the column under the operator that you entered last. Then, the operator that you entered second-to-last, etc.)
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="9"}
 1.10 ~P & Q
