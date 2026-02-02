@@ -40,7 +40,9 @@ Identify the main logical operator of (&not;P & Q) and then the main logical ope
 1.9 ~P & Q
 ~~~
 
-You can use the previous problem as a guide for completing this truth table. First, fill in the columns under the atomic sentences. Then, fill in the columns under the logical operators in the ***reverse order*** that you selected them above. (That is, first, fill in the column under the operator that you entered last. Then, the operator that you entered second-to-last, etc.)
+You can use the previous problem as a guide for completing this truth table. First, fill in the columns under the atomic sentences. Then, fill in the columns under the logical operators in the ***reverse order*** that you selected them above. 
+
+That is, first, fill in the column under the operator that you entered last. Then, fill in the column under the operator that you entered second-to-last, etc.
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="9"}
 1.10 ~P & Q
