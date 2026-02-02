@@ -9,7 +9,7 @@ Be sure to submit each problem.
 Type the main logical operator for the given TFL sentence in the space provided. (Use ~, v, & , ->, and <->.)<br>
 Hit `enter` (not &ldquo;Submit&rdquo;).<br> 
 Type the main logical operator for the sub-sentence that's in red. Hit `enter`.<br> 
-Repeat until finished.<br>
+Repeat until finished (when the box turns green and the check mark appears).<br>
 **Then submit the problem.**
 
 ---
