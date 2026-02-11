@@ -1,4 +1,4 @@
-## truth tables, assignment 3 (at-home)
+## truth tables, assignment 4 (at-home)
 
 ---
 
@@ -14,7 +14,7 @@ Be sure to submit each one. The `✓` indicates that the problem has been checke
 ---
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="8"}
-3.1 (R <-> ~S)
+4.1 (R <-> ~S)
 ~~~
 
 You can use the previous problem as a guide for completing this truth table. First, fill in the columns under the atomic sentences. Then, fill in the columns under the logical operators in the ***reverse order*** that you selected them above. 
@@ -22,35 +22,35 @@ You can use the previous problem as a guide for completing this truth table. Fir
 That is, first, fill in the column under the operator that you entered last. Then, fill in the column under the operator that you entered second-to-last, etc.
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
-3.2 (R <-> ~S)
+4.2 (R <-> ~S)
 ~~~
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="8"}
-3.3 P <-> (P & Q)
+4.3 P <-> (P & Q)
 ~~~
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
-3.4 P <-> (P & Q)
+4.4 P <-> (P & Q)
 ~~~
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="8"}
-3.5 ~(P <-> R) v ~R
+4.5 ~(P <-> R) v ~R
 ~~~
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
-3.6 ~(P <-> R) v ~R
+4.6 ~(P <-> R) v ~R
 ~~~
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="8"}
-3.7 (R <-> (S & T))
+4.7 (R <-> (S & T))
 ~~~
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
-3.8 (R <-> (S & T))
+4.8 (R <-> (S & T))
 ~~~
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="8"}
-3.9 ((P v ~Q) -> T)
+4.9 ((P v ~Q) -> T)
 ~~~
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
-3.10 ((P v ~Q) -> T)
+4.10 ((P v ~Q) -> T)
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p> 
