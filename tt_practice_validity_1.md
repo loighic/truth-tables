@@ -6,7 +6,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 
 ---
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" submission="none"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" submission="none"}
 0.1 S & T :|-: T
 ~~~
 
@@ -16,7 +16,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 | This  argument is invalid.
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" submission="none"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" submission="none"}
 0.3 S :|-: S -> ~T
 ~~~
 
@@ -26,7 +26,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 |* This  argument is invalid.
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" submission="none"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" submission="none"}
 0.5 P <-> ~Q :|-: Q -> ~P
 ~~~
 
@@ -36,7 +36,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 | This  argument is invalid.
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" submission="none"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms nodash" submission="none"}
 0.7 P <-> ~Q :|-: Q -> P
 ~~~
 
@@ -46,7 +46,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 |* This  argument is invalid.
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" submission="none"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms nodash" submission="none"}
 0.9 (~P v Q) :|-: P -> ~Q
 ~~~
 
@@ -56,7 +56,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 |* This  argument is invalid.
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" submission="none"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms nodash" submission="none"}
 0.11 (P v Q), ~P :|-: ~Q v P
 ~~~
 
