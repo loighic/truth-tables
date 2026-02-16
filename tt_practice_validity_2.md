@@ -6,7 +6,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 
 ---
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" submission="none"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms nodash" submission="none"}
 0.13 P <-> S, Q & ~S :|-: P
 ~~~
 
@@ -16,7 +16,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 |* This  argument is invalid.
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" submission="none"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms nodash" submission="none"}
 0.15 P <-> ~S, Q & ~S :|-: P v S
 ~~~
 
@@ -26,7 +26,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 | This  argument is invalid.
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" submission="none"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms nodash" submission="none"}
 0.17 P <-> ~S, Q & ~S :|-: P & S
 ~~~
 
@@ -36,7 +36,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 |* This  argument is invalid.
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" submission="none"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms nodash" submission="none"}
 0.19 (P & Q) -> R, ~Q :|-: P -> R
 ~~~
 
@@ -46,7 +46,7 @@ Determine the truth values for each sentence, and then indicate whether the line
 |* This  argument is invalid.
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms" submission="none"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample autoAtoms nodash" submission="none"}
 0.21 P <-> ~S, ~S, Q :|-: P & Q
 ~~~
 
