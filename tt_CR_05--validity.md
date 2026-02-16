@@ -7,7 +7,7 @@ For the truth tables, determine the truth values for each sentence, and then ind
 
 ---
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" points="10" late-credit="8"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="10" late-credit="8"}
 6.1 P -> Q, ~(P v ~Q) :|-: ~P
 ~~~
 
@@ -17,7 +17,7 @@ For the truth tables, determine the truth values for each sentence, and then ind
 | This  argument is invalid.
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" points="10" late-credit="8"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="10" late-credit="8"}
 6.3 T v (~R & ~T), R <-> ~T :|-: R
 ~~~
 
@@ -28,7 +28,7 @@ For the truth tables, determine the truth values for each sentence, and then ind
 ~~~
 
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample" points="10" late-credit="8"}
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="10" late-credit="8"}
 6.5 M <-> ~N, ~M & N, M -> N :|-: ~N
 ~~~
 
