@@ -1,4 +1,4 @@
-## truth tables, assignment 7b (at-home)
+## truth tables, assignment 6b (at-home)
 
 ---
 
@@ -11,7 +11,7 @@ For each, indicate whether the line is a good or a bad one by putting a `✓` or
 ---
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="10" late-credit="8"}
-7.6 P -> Q, Q -> R :|-: P <-> R
+6.6 P -> Q, Q -> R :|-: P <-> R
 |   T T T     T T T   -   T T T
 |   T T T     T F F   -   T F F
 |   T F F     F T T   -   T T T
@@ -21,7 +21,7 @@ For each, indicate whether the line is a good or a bad one by putting a `✓` or
 |   F T F     F T T   -   F F T
 |   F T F     F T F   -   F T F
 
-7.7 (P v Q) -> R, ~Q :|-: P->R
+6.7 (P v Q) -> R, ~Q :|-: P->R
 |   T T T   T T    F T -  T T T
 |   T T T   F F    F T -  T F F
 |   T T F   T T    T F -  T T T
@@ -31,7 +31,7 @@ For each, indicate whether the line is a good or a bad one by putting a `✓` or
 |   F F F   T T    T F -  F T T
 |   F F F   T F    T F -  F T F
 
-7.8 Q -> ~R, R v S :|-: S -> Q
+6.8 Q -> ~R, R v S :|-: S -> Q
 |   T F F T   T T T -  T T T
 |   T F F T   T T F -  F T T
 |   T T T F   F T T -  T T T
@@ -41,7 +41,7 @@ For each, indicate whether the line is a good or a bad one by putting a `✓` or
 |   F T T F   F T T -  T F F
 |   F T T F   F F F -  F T F
 
-7.9 ~P v ~Q, Q & S :|-: ~P
+6.9 ~P v ~Q, Q & S :|-: ~P
 |   F T F F T  T T T - F T
 |   F T F F T  T F F - F T
 |   F T T T F  F F T - F T
@@ -51,37 +51,37 @@ For each, indicate whether the line is a good or a bad one by putting a `✓` or
 |   T F T T F  F F T - T F
 |   T F T T F  F F F - T F
 
-7.10 (PvS),~P->~S:|-:P&~S
+6.10 (PvS),~P->~S:|-:P&~S
 | TTT FTTFT - TFFT
 | TTF FTTTF - TTTF
 | FTT TFFFT - FFFT
 | FFF TFTTF - FFTF
 
-7.11 ~P <-> Q, ~(Q & P) :|-: ~P
+6.11 ~P <-> Q, ~(Q & P) :|-: ~P
 |   F T F T    F   T T T   - F T
 |   F T T F    T   F F T   - F T
 |   T F T T    T   T F F   - T F
 |   T F F F    T   F F F   - T F
 
-7.12 P -> (Q v ~P), P :|-: ~Q
+6.12 P -> (Q v ~P), P :|-: ~Q
 |   T T   T T F T     T - F T
 |   T F   F F F T     T - T F
 |   F T   T T T F     F - F T
 |   F T   F T T F     F - T F
 
-7.13 ~(P v ~Q), Q v P :|-: P -> Q
+6.13 ~(P v ~Q), Q v P :|-: P -> Q
 | F   T T F T    T T T   -   T T T
 | F   T T T F    F T T   -   T F F
 | T   F F F T    T T F   -   F T T
 | F   F T T F    F F F   -   F T F
 
-7.14 (~P <-> Q) & P, P -> ~Q :|-: Q
+6.14 (~P <-> Q) & P, P -> ~Q :|-: Q
 |   F T F T   F T      T F F T   - T
 |   F T T F   T T      T T T F   - F
 |   T F T T   F F      F T F T   - T
 |   T F F F   F F      F T T F   - F
 
-7.15 M v N, M -> S, N -> T :|-: S v T
+6.15 M v N, M -> S, N -> T :|-: S v T
 |   T T T   T T T   T T T   -   T T T
 |   T T T   T T T   T F F   -   T T F
 |   T T T   T F F   T T T   -   F T T
@@ -99,7 +99,7 @@ For each, indicate whether the line is a good or a bad one by putting a `✓` or
 |   F F F   F T F   F T T   -   F T T
 |   F F F   F T F   F T F   -   F F F
 
-7.15 M v N, M -> S, N -> T :|-: S & T
+6.15 M v N, M -> S, N -> T :|-: S & T
 |   T T T      T T T      T T T   -   T T T
 |   T T T      T T T      T F F   -   T F F
 |   T T T      T F F      T T T   -   F F T
