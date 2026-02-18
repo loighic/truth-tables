@@ -1,4 +1,4 @@
-## truth tables, assignment 7a (at-home)
+## truth tables, assignment 6a (at-home)
 
 ---
 
@@ -12,14 +12,14 @@ Determine the truth values for each sentence, and then indicate whether the line
 
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="20" late-credit="16"}
-7.1 ~(P & Q) :|-: P -> ~Q
-7.1 ~(P -> Q) :|-: P & ~Q
+6.1 ~(P & Q) :|-: P -> ~Q
+6.1 ~(P -> Q) :|-: P & ~Q
 ~~~
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="20" late-credit="16"}
-7.2 (P v Q), ~P :|-: Q & P
-7.2 (S v T), ~S :|-: ~T & S
-7.2 (M v P), M :|-: ~P & M
+6.2 (P v Q), ~P :|-: Q & P
+6.2 (S v T), ~S :|-: ~T & S
+6.2 (M v P), M :|-: ~P & M
 ~~~
 
 
@@ -27,23 +27,23 @@ Remember, an argument is `valid` when it is the case that if the premises are tr
 
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="20" late-credit="16"}
-7.3 (P & Q), ~P -> Q :|-: Q
-7.3 (P & Q), ~P -> Q  :|-: Q 
-7.3 (~P v Q), ~P <-> Q  :|-: Q 
-7.3 (P v Q), P -> ~Q  :|-: ~Q 
-7.3 (P v ~Q), P -> ~Q :|-: ~Q
+6.3 (P & Q), ~P -> Q :|-: Q
+6.3 (P & Q), ~P -> Q  :|-: Q 
+6.3 (~P v Q), ~P <-> Q  :|-: Q 
+6.3 (P v Q), P -> ~Q  :|-: ~Q 
+6.3 (P v ~Q), P -> ~Q :|-: ~Q
 ~~~
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="20" late-credit="16"}
-7.4 (P & Q) -> R :|-: P -> R
-7.4 (M v P) <-> T :|-: M <-> T
-7.4 (P -> Q) v R :|-: P <-> R
+6.4 (P & Q) -> R :|-: P -> R
+6.4 (M v P) <-> T :|-: M <-> T
+6.4 (P -> Q) v R :|-: P <-> R
 ~~~
 
 ~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash autoAtoms" points="20" late-credit="16"}
-7.5 (P v Q) -> R, ~Q :|-: P->R
-7.5 (M v ~P) -> T, P :|-: M->T
-7.5 (P & T) -> ~R, T :|-: P->R
+6.5 (P v Q) -> R, ~Q :|-: P->R
+6.5 (M v ~P) -> T, P :|-: M->T
+6.5 (P & T) -> ~R, T :|-: P->R
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
