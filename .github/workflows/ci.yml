@@ -18,4 +18,4 @@ jobs:
           defaultVisibility: 'Private'
           # files to include in the upload (important: this must be quoted)
           includeFiles: '["*.md"]'
-          instanceUrl: 'https://carnap.io'
+          instanceUrl: 'https://validit.ee/'
