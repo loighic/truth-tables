@@ -8,7 +8,7 @@ Be sure to submit each problem. The `✓` in the green bar or box indicates that
 
 **Part 1**
 
-Type the main logical operator for the given TFL sentence in the space provided. (Use ~, v, & , ->, and <->.)<br>
+Type the main logical operator for the given TFL sentence in the space provided. Use ~, v, & , ->, and <->.<br>
 Hit `enter` (not &ldquo;Submit&rdquo;).<br> 
 Type the main logical operator for the sub-sentence that's in red. Hit `enter`.<br> 
 Repeat until finished. (You're finished when the box turns green and the check mark appears).<br>
@@ -46,7 +46,6 @@ That is, first, fill in the column under the operator that you entered last. The
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="9"}
 10 ~P & Q
-10 S -> ~W
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p> 
