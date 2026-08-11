@@ -15,10 +15,10 @@ Repeat until finished. (You're finished when the box turns green and the check m
 **Then submit the problem.**
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="9"}
-1.1 (P v T) & R
-1.2 ~(M & T) <-> S
-1.3 (S <-> (T v Q)) -> ~W
-1.4 S -> ~((M & Q) <-> T)
+1. (P v T) & R
+2. ~(M & T) <-> S
+3. (S <-> (T v Q)) -> ~W
+4. S -> ~((M & Q) <-> T)
 ~~~
 
 ---
@@ -28,16 +28,16 @@ Repeat until finished. (You're finished when the box turns green and the check m
 Complete the truth table. Check it, and when it is correct, submit it.
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="9"}
-1.5 P & Q
-1.6 P -> Q
-1.7 P v Q
-1.8 P <-> Q
+5. P & Q
+6. P -> Q
+7. P v Q
+8. P <-> Q
 ~~~
 
 Identify the main logical operator of (&not;P & Q) and then the main logical operator of any sub-sentences.
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="9"}
-1.9 ~P & Q
+9. ~P & Q
 ~~~
 
 You can use the previous problem as a guide for completing this truth table. First, fill in the columns under the atomic sentences. Then, fill in the columns under the logical operators in the ***reverse order*** that you selected them above. 
@@ -45,7 +45,7 @@ You can use the previous problem as a guide for completing this truth table. Fir
 That is, first, fill in the column under the operator that you entered last. Then, fill in the column under the operator that you entered second-to-last, etc.
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="9"}
-1.10 ~P & Q
+10. ~P & Q
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p> 
