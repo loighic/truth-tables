@@ -1,5 +1,5 @@
 
-<title>forallx: the Mississippi State edition</title>
+<title>forallx</title>
 
 &nbsp;
 
