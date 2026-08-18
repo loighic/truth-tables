@@ -1,4 +1,6 @@
 
+<title>forallx: the Mississippi State edition</title>
+
 &nbsp;
 
 ---
