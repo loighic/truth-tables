@@ -1,3 +1,8 @@
+---
+title: truth tables assignment 1
+---
+
+
 # truth tables assignment 1 
 
 ---
