@@ -19,11 +19,12 @@ Be sure to submit each problem. The `✓` in the green bar or box indicates that
 
 **Part 1**
 
-Type the main logical operator for the given TFL sentence in the space provided. Use ~, v, & , ->, and <->.<br>
-Hit `enter` (not &ldquo;Submit&rdquo;).<br> 
-Type the main logical operator for the sub-sentence that's in red. Hit `enter`.<br> 
-Repeat until finished. (You're finished when the box turns green and the check mark appears).<br>
-**Then submit the problem.**
+1. For problem 1, type the main logical operator for the given TFL sentence in the space provided. Use ~, v, & , ->, and <->.
+2. Hit `enter` (not &ldquo;Submit&rdquo;).
+3. Type the main logical operator for the sub-sentence that's in red. Hit `enter`.
+4. Repeat until finished. (You're finished when the box turns green and the check mark appears).
+5. **Then submit the problem.**
+
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="9"}
 1 (P v T) & R
