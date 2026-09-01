@@ -1,4 +1,9 @@
-## Welcome to Carnap: Mississippi State! 
+---
+title: Welcome!
+---
+
+
+# Welcome to Carnap: Mississippi State! 
 
 ---
 
