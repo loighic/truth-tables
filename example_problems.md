@@ -7,7 +7,7 @@ title: example problems
 
 ---
 
-This page contains the different kinds of problems that are given to students in Mississippi State's Intro to Logic course along with some typical instructions.
+This page contains the different kinds of problems that are given to students in Mississippi State's Intro to Logic course. Some typical instructions are also given.
 
 ---
 
