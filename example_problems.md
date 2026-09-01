@@ -27,7 +27,7 @@ Be sure to submit each problem. The `✓` indicates that the problem has been ch
 1 (R & ~T)
 ~~~
 
-You can use the previous problem as a guide for completing this truth table. First, fill in the columns under the atomic sentences. Then, fill in the columns under the logical operators in the ***reverse order*** that you selected them above. 
+You can use the previous problem as a guide when you are filling in this truth table. First, fill in the columns under the atomic sentences. Then, fill in the columns under the logical operators in the ***reverse order*** that you selected them above. 
 
 That is, first, fill in the column under the operator that you entered last. Then, fill in the column under the operator that you entered second-to-last, etc.
 
@@ -40,7 +40,7 @@ That is, first, fill in the column under the operator that you entered last. The
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" points="10" late-credit="8"}
-4 Which one of the following is correct about P &LeftRightArrow; ~Q &vdash; Q &rarr; ~P, the argument in the previous problem?
+4 Which one of the following is correct about P &LeftRightArrow; &not;Q &vdash; Q &rarr; &not;P, the argument in the previous problem?
 |* This argument is valid.
 | This  argument is invalid.
 ~~~
