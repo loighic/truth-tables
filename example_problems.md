@@ -5,6 +5,7 @@ title: example problems
 
 # Carnap: MSU example problems
 
+---
 
 This page contains the different kinds of problems that are given to students in Mississippi State's Intro to Logic course along with some typical instructions.
 
@@ -14,11 +15,6 @@ Be sure to submit each problem. The `✓` indicates that the problem has been ch
 
 ---
 
-For problem 1, type the main logical operator for the given TFL sentence in the space provided. Use ~, v, & , ->, and <->.<br>
-Hit `enter` (not &ldquo;Submit&rdquo;).<br> 
-Type the main logical operator for the sub-sentence that's in red. Hit `enter`.<br> 
-Repeat until finished. (You're finished when the box turns green and the check mark appears).<br>
-**Then submit the problem.**
 
 1. For problem 1, type the main logical operator for the given TFL sentence in the space provided. Use ~, v, & , ->, and <->.
 2. Hit `enter` (not &ldquo;Submit&rdquo;).
