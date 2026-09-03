@@ -17,7 +17,6 @@ Be sure to submit each problem.
 4. Repeat until finished. (You're finished when the box turns green and the check mark appears).
 5. **Then submit the problem.**
 
----
 
 Keep in mind that the main logical operator for the (entire) TFL sentence that you are given is the first operator that you type in the space provided. After you do that, you are identifying the MLO for sub-sentences of that sentence. 
 
