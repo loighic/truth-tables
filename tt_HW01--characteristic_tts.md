@@ -17,7 +17,7 @@ Be sure to submit each problem. The `✓` in the green bar or box indicates that
 
 ---
 
-**Part 1**
+### Part 1
 
 1. For problem 1, type the main logical operator for the given TFL sentence in the space provided. Use ~, v, & , ->, and <->.
 2. Hit `enter` (not &ldquo;Submit&rdquo;).
