@@ -36,7 +36,7 @@ Be sure to submit each problem. The `✓` in the green bar or box indicates that
 
 ---
 
-**Part 2**
+### Part 2
 
 Complete the truth table. Check it, and when it is correct, submit it.
 
