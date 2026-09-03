@@ -5,13 +5,13 @@ title: MLO assginment
 
 # MLO & scope assignment
 
-Each problem is worth 10 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 9 points. Your grade will be put on a 10 point scale when it is posted in Canvas.  
+Each problem is worth 10 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 9 points. Your grade will be put on a 10 point scale when it is posted in Canvas.
 
 Be sure to submit each problem.
 
 ---
 
-1. For problem 1, type the main logical operator for the given TFL sentence in the space provided. Use ~, v, & , ->, and <->.
+1. For each problem, type the main logical operator for the given TFL sentence in the space provided. Use ~, v, & , ->, and <->.
 2. Hit `enter` (not &ldquo;Submit&rdquo;).
 3. Type the main logical operator for the sub-sentence that's in red. Hit `enter`.
 4. Repeat until finished. (You're finished when the box turns green and the check mark appears).
