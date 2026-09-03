@@ -11,7 +11,7 @@ title: truth tables assignment 1
 
 ---
 
-Each problem is worth 10 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 9 points. Your grade will be put on a 10 point scale when it is posted in Canvas. :)
+Each problem is worth 10 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 9 points. Your grade will be put on a 10 point scale when it is posted in Canvas.
 
 Be sure to submit each problem. The `✓` in the green bar or box indicates that the problem has been checked, not that it has been submitted.
 
@@ -31,6 +31,7 @@ Be sure to submit each problem. The `✓` in the green bar or box indicates that
 2 ~(M & T) <-> S
 3 (S <-> (T v Q)) -> ~W
 4 S -> ~((M & Q) <-> T)
+5 (Q & ~(P -> T)) <-> (S v W)
 ~~~
 
 ---
@@ -40,7 +41,6 @@ Be sure to submit each problem. The `✓` in the green bar or box indicates that
 Complete the truth table. Check it, and when it is correct, submit it.
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="9"}
-5 P & Q
 6 P -> Q
 7 P v Q
 8 P <-> Q
