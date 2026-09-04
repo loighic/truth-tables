@@ -23,16 +23,26 @@ Keep in mind that the main logical operator for the (entire) TFL sentence that y
 ---
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="9"}
-1.1 (P -> S) & W
-1.2 (M v T) & (Q -> W)
-1.3 S & (T v (M <-> Q))
-1.4 ((T v W) & M) -> P
-1.5 ~(M & T) -> ~S
-1.6 ~((W -> ~P) v (P & S))
-1.7 (R v ~(S -> T))
-1.8 (R v ~(S -> T)) & (M <-> Q)
-1.9 (S <-> (T v Q)) -> ~W
-1.10 S -> ~((M & Q) <-> T)
+1 (P -> S) & W
+1 (P & S) -> W
+2 (M v T) & (Q -> W)
+2 (M & T) -> (Q v W)
+2 (M -> T) v (Q & W)
+2 (M v T) -> (Q & W)
+3 S & (T v (M <-> Q))
+3 S <-> (T & (M v Q))
+4 ((T v W) & M) -> P
+4 ((T -> W) v M) & P
+5 ~(M & T) -> ~S
+5 ~(M -> T) & ~S 
+6 ~((W -> ~P) v (P & S))
+6 ~((W & P) -> (P v ~S))
+7 (R v ~(S -> T))
+8 (R v ~(S -> T)) & (M <-> Q)
+9 (S <-> (T v Q)) -> ~W
+9 (S -> (T <-> Q)) v ~W
+10 S -> ~((M & Q) <-> T)
+10 S <-> ~((M -> Q) & T)
 ~~~
 
 
