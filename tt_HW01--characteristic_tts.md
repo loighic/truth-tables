@@ -38,7 +38,9 @@ Be sure to submit each problem. The `✓` in the green bar or box indicates that
 
 ### Part 2
 
-Complete the truth table. Check it, and when it is correct, submit it. Use chapter 7 in the textbook if you're not sure how to fill in the columns under the logical operators.
+Complete the truth table. Check it, and when it is correct, submit it. 
+
+Use chapter 7 in the textbook if you're not sure how to fill in the columns under the logical operators.
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="9"}
 6 P -> Q
