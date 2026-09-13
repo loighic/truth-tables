@@ -6,6 +6,8 @@ The whole assignment is worth 102 points. Your grade will be put on a 10 point s
 
 **Make sure that everyone in your group (all three or four of you) understands how to do the problems and has completed each pair before you move on to the next pair.**
 
+<small>For this assignment, you have to fill in five truth tables. The TFL sentence is given above the table. For each column below the sentence letters and logical operators, select T or F from the drop down menu. When you are finished, click on the "Check" button. A pop-up box will tell you if the table is correct or if it is not. If there is a mistake, then go back and try to correct it. (Then repeat the check.) If the check reports "Success!", then hit the "Submit" button. You can only submit when the truth table is complete and correct.</small>
+
 ---
 
 Be sure to submit each one. The `✓` indicates that the problem has been checked, not that it has been submitted.
