@@ -14,7 +14,7 @@ Each problem is worth 10 points, and the whole assignment is worth 100 points.
 
 ---
 
-<small>For this assignment, you have to fill in six truth tables. For each, the TFL sentence is given above the table. For each cell below the sentence letters and logical operators in the table, select T or F from the drop down menu. When you are finished, click on the "Check" button. A pop-up box will tell you if the table is correct or if it is not. If there is a mistake, then go back and try to correct it (then repeat the check). If the check reports "Success!", hit the "Submit" button. You can only submit when the truth table is complete and correct.</small>
+<small>In this assignment, you have to fill in five truth tables. For each, the TFL sentence is given above the table. For each cell below the sentence letters and logical operators in the table, select T or F from the drop down menu. When you are finished, click on the "Check" button. A pop-up box will tell you if the table is correct or if it is not. If there is a mistake, then go back and try to correct it (then repeat the check). If the check reports "Success!", hit the "Submit" button. You can only submit when the truth table is complete and correct.</small>
 
 ---
 
