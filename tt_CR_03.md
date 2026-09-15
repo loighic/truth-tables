@@ -1,4 +1,9 @@
-## truth tables, assignment 4 (at-home)
+---
+title: truth tables assignment 3
+---
+
+
+# truth tables, assignment 3 (at-home)
 
 ---
 
@@ -9,12 +14,16 @@ Each problem is worth 10 points, and the whole assignment is worth 100 points.
 
 ---
 
+<small>For this assignment, you have to fill in six truth tables. For each, the TFL sentence is given above the table. For each cell below the sentence letters and logical operators in the table, select T or F from the drop down menu. When you are finished, click on the "Check" button. A pop-up box will tell you if the table is correct or if it is not. If there is a mistake, then go back and try to correct it (then repeat the check). If the check reports "Success!", hit the "Submit" button. You can only submit when the truth table is complete and correct.</small>
+
+---
+
 Be sure to submit each one. The `✓` indicates that the problem has been checked, not that it has been submitted.
 
 ---
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="8"}
-4.1 (R <-> ~S)
+1 (R <-> ~S)
 ~~~
 
 You can use the previous problem as a guide for completing this truth table. First, fill in the columns under the atomic sentences. Then, fill in the columns under the logical operators in the ***reverse order*** that you selected them above. 
@@ -22,35 +31,35 @@ You can use the previous problem as a guide for completing this truth table. Fir
 That is, first, fill in the column under the operator that you entered last. Then, fill in the column under the operator that you entered second-to-last, etc.
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
-4.2 (R <-> ~S)
+2 (R <-> ~S)
 ~~~
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="8"}
-4.3 P <-> (P & Q)
+3 P <-> (P & Q)
 ~~~
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
-4.4 P <-> (P & Q)
+4 P <-> (P & Q)
 ~~~
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="8"}
-4.5 ~(P <-> R) v ~R
+5 (P <-> R) v ~R
 ~~~
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
-4.6 ~(P <-> R) v ~R
+6 (P <-> R) v ~R
 ~~~
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="8"}
-4.7 (R <-> (S & T))
+7 (R <-> (S & T))
 ~~~
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
-4.8 (R <-> (S & T))
+8 (R <-> (S & T))
 ~~~
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="8"}
-4.9 ((P v ~Q) -> T)
+9 ((P v ~Q) -> T)
 ~~~
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
-4.10 ((P v ~Q) -> T)
+10 ((P v ~Q) -> T)
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p> 
