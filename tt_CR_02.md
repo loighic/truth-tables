@@ -29,7 +29,7 @@ Be sure to submit each one. The `✓` indicates that the problem has been checke
 
 You can use the previous problem as a guide for completing this truth table. First, fill in the columns under the atomic sentences. Then, fill in the columns under the logical operators in the ***reverse order*** that you selected them above. 
 
-That is, first, fill in the column under the operator that you entered last. Then, fill in the column under the operator that you entered second-to-last, etc.
+That is, first, fill in the column under the operator that you entered last (above). Then, fill in the column under the operator that you entered second-to-last, etc.
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="9" late-credit="7"}
 2 (R & ~T)
