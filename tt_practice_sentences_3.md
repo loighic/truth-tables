@@ -1,4 +1,10 @@
-## truth tables, practice problems 3: concepts
+---
+title: truth tables practice problems 3
+---
+
+# truth tables, practice problems 3: concepts
+
+---
 
 These are optional, and you can work on them with others. They won't count as part of your grade, and they can't be submitted. But you can check whether you have done them correctly.
 
