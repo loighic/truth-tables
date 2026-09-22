@@ -12,7 +12,7 @@ Each problem is worth 20 points, and the whole assignment is worth 100 points.
 
 
 
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
+~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="20" late-credit="16"}
 1 (P & ~Q)
 2 (~P & ~Q)
 3 ~(~P & ~Q)
