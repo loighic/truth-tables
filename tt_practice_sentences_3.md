@@ -11,33 +11,33 @@ These are optional, and you can work on them with others. They won't count as pa
 ---
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms" submission="none"}
-0.1 (~P & ~Q) -> ~Q
+1 (~P & ~Q) -> ~Q
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.2 Which one of the following is correct about (&not;P & &not;Q) &rarr; &not;Q, the sentence in the previous problem?
+2 Which one of the following is correct about (&not;P & &not;Q) &rarr; &not;Q, the sentence in the previous problem?
 |* This sentence is a tautology.
 | This sentence is a contradiction.
 | This sentence is contingent.
 ~~~
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms" submission="none"}
-0.3 ~((P v R) v Q)
+3 ~((P v R) v Q)
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.4 Which one of the following is correct about &not;((P v R) v Q), the sentence in the previous problem?
+4 Which one of the following is correct about &not;((P v R) v Q), the sentence in the previous problem?
 | This sentence is a tautology.
 | This sentence is a contradiction.
 |* This sentence is contingent.
 ~~~
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms" submission="none"}
-0.5 ~(P -> (Q -> P))
+5 ~(P -> (Q -> P))
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.6 Which one of the following is correct about &not;((P &rarr; R) &rarr; Q), the sentence in the previous problem?
+6 Which one of the following is correct about &not;((P &rarr; R) &rarr; Q), the sentence in the previous problem?
 | This sentence is a tautology.
 |* This sentence is a contradiction.
 | This sentence is contingent.
@@ -45,22 +45,22 @@ These are optional, and you can work on them with others. They won't count as pa
 
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms" submission="none"}
-0.7 ~(R v T), ~R & T
+7 ~(R v T), ~R & T
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.8 Which one of the following is correct about &not;(R v T) and &not;R & T, the sentences in the previous problem?
+8 Which one of the following is correct about &not;(R v T) and &not;R & T, the sentences in the previous problem?
 | The sentences are equivalent.
 |* The sentences are jointly inconsistent.
 | The sentences are jointly consistent (but not equivalent).
 ~~~
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms" submission="none"}
-0.9 ~(P -> Q), Q -> P
+9 ~(P -> Q), Q -> P
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.10 Which one of the following is correct about &not;(R v T) and &not;R & T, the sentences in the previous problem?
+10 Which one of the following is correct about &not;(R v T) and &not;R & T, the sentences in the previous problem?
 | The sentences are equivalent.
 | The sentences are jointly inconsistent.
 |* The sentences are jointly consistent (but not equivalent).
@@ -68,11 +68,11 @@ These are optional, and you can work on them with others. They won't count as pa
 
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms" submission="none"}
-0.11 ~(P v Q), ~P -> Q
+11 ~(P v Q), ~P -> Q
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.12 Which one of the following is correct about &not;(P v Q) and &not;P &rarr; Q, the sentences in the previous problem?
+12 Which one of the following is correct about &not;(P v Q) and &not;P &rarr; Q, the sentences in the previous problem?
 | The sentences are equivalent.
 |* The sentences are jointly inconsistent.
 | The sentences are jointly consistent (but not equivalent).
@@ -80,11 +80,11 @@ These are optional, and you can work on them with others. They won't count as pa
 
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms" submission="none"}
-0.13 ~(R v T), ~R & ~T
+13 ~(R v T), ~R & ~T
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" submission="none"}
-0.14 Which one of the following is correct about &not;(R v T) and &not;R & &not;T, the sentences in the previous problem?
+14 Which one of the following is correct about &not;(R v T) and &not;R & &not;T, the sentences in the previous problem?
 |* The sentences are equivalent.
 | The sentences are jointly inconsistent.
 | The sentences are jointly consistent (but not equivalent).
