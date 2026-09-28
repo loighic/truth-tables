@@ -1,9 +1,9 @@
 ---
-title: truth tables & validity, practice problems 2
+title: truth tables & validity, practice 2
 ---
 
 
-# truth tables & validity, practice problems, set 2
+# truth tables & validity, practice problems, 2
 
 ---
 
