@@ -1,5 +1,5 @@
 ---
-title: truth tables & validity, practice problems 1
+title: truth tables & validity, practice 1
 ---
 
 
