@@ -1,9 +1,9 @@
 ---
-title: truth tables assignment 6b
+title: truth tables assignment 8b
 ---
 
 
-# truth tables, assignment 6b (at-home)
+# truth tables, assignment 8b (at-home)
 
 ---
 
