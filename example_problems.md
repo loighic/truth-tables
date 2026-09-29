@@ -50,6 +50,10 @@ That is, first, fill in the column under the operator that you entered last. The
 5 S & T, Q v R, ~R :|-: Q & T
 ~~~
 
+~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" submission="none"}
+6 ~P -> S :|-: ~S v P
+~~~
+
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
