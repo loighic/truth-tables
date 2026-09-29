@@ -9,7 +9,7 @@ title: truth tables assignment 6b
 
 ## Instructions
 
-This is a contingent assignment. See the explanation for contingent assignments in the "test 2 pre-test assignments" module in Canvas.
+**This is a contingent assignment.** See the explanation for contingent assignments in the "test 2 pre-test assignments" module in Canvas.
 
 Each problem is worth 10 points, and the whole assignment is worth 100 points. Problems that are submitted late will receive 8 points. Your grade will be put on a 10 point scale when it is posted in Canvas.
 
