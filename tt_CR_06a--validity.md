@@ -3,7 +3,7 @@ title: truth tables assignment 6a
 ---
 
 
-# truth tables, assignment 6a (at-home, contingent)
+# truth tables, assignment 6a (at-home)
 
 ---
 
