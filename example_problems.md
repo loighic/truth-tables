@@ -7,13 +7,11 @@ title: example problems
 
 ---
 
-This page contains the different kinds of problems that are given to students in Mississippi State's Intro to Logic course. Some typical instructions are also given.
+This page contains the different kinds of problems that are given to students in Mississippi State's Intro to Logic course. Normally, an assignment would only include or maybe two types of problems. 
 
 ---
 
-Be sure to submit each problem. The `✓` indicates that the problem has been checked, not that it has been submitted.
-
----
+## Syntax Check Problem
 
 
 1. For problem 1, type the main logical operator for the given TFL sentence in the space provided. Use ~, v, & , ->, and <->.
@@ -27,9 +25,9 @@ Be sure to submit each problem. The `✓` indicates that the problem has been ch
 1 (R & ~T)
 ~~~
 
-You can use the previous problem as a guide when you are filling in this truth table. First, fill in the columns under the atomic sentences. Then, fill in the columns under the logical operators in the ***reverse order*** that you selected them above. 
+## Truth Tables
 
-That is, first, fill in the column under the operator that you entered last. Then, fill in the column under the operator that you entered second-to-last, etc.
+<small>In the next problem, you have to fill in a truth table. The TFL sentence is given above the table. For each cell below the sentence letters and logical operators in the table, select T or F from the drop down menu. When you are finished, click on the "Check" button. A pop-up box will tell you if the table is correct or if it is not. If there is a mistake, then go back and try to correct it (then repeat the check). If the check reports "Success!", hit the "Submit" button. You can only submit when the truth table is complete and correct.</small>
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
 2 (R & ~T)
@@ -45,14 +43,13 @@ That is, first, fill in the column under the operator that you entered last. The
 | This  argument is invalid.
 ~~~
 
+## Proofs
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="8"}
-5 S & T, Q v R, ~R :|-: Q & T
+5 P -> Q, P :|-: Q
+6 S & T, Q v R, ~R :|-: Q & T
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" submission="none"}
-6 ~P -> S :|-: ~S v P
-~~~
 
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
