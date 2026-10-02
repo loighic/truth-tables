@@ -33,12 +33,8 @@ In the next problem, you have to fill in a truth table. The TFL sentence is give
 2 (R & ~T)
 ~~~
 
-~~~{.TruthTable .Validity system="magnusSL" options="turnstilemark nocounterexample nodash" points="10" late-credit="8"}
-3 P <-> ~Q :|-: Q -> ~P
-~~~
-
 ~~~{.QualitativeProblem .MultipleChoice options="check" points="10" late-credit="8"}
-4 Which one of the following is correct about (R & &not;T), the TFL sentence in the previous problem?
+3 Which one of the following is correct about (R & &not;T), the TFL sentence in the previous problem?
 | This sentence is a tautology
 | This sentence is a contradiction.
 |* This sentence is contingent.
@@ -47,8 +43,8 @@ In the next problem, you have to fill in a truth table. The TFL sentence is give
 ## Proofs
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="8"}
-5 P -> Q, P :|-: Q
-6 S & T, Q v R, ~R :|-: Q & T
+4 P -> Q, P :|-: Q
+5 S & T, Q v R, ~R :|-: Q & T
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
