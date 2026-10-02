@@ -38,9 +38,10 @@ In the next problem, you have to fill in a truth table. The TFL sentence is give
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" points="10" late-credit="8"}
-4 Which one of the following is correct about P &LeftRightArrow; &not;Q &vdash; Q &rarr; &not;P, the argument in the previous problem?
-|* This argument is valid.
-| This  argument is invalid.
+4 Which one of the following is correct about (R & &not;T), the TFL sentence in the previous problem?
+| This sentence is a tautology
+| This sentence is a contradiction.
+|* This sentence is contingent.
 ~~~
 
 ## Proofs
