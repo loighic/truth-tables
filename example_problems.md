@@ -51,8 +51,6 @@ In the next problem, you have to fill in a truth table. The TFL sentence is give
 6 S & T, Q v R, ~R :|-: Q & T
 ~~~
 
-
-
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
 
 ---
