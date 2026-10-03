@@ -7,7 +7,7 @@ title: truth tables, optional practice
 
 ---
 
-This is an optional practice assignment.
+This is an optional practice assignment. **Time Remaining: <span id="testTimer">script not loaded</span>**
 
 ---
 
