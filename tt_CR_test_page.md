@@ -24,12 +24,12 @@ This is an optional practice assignment.
 3 ~M & (~M -> N)
 ~~~
 
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="20" late-credit="20"}
+~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms" points="20" late-credit="20"}
 4 ~R -> ~(S & T)
 ~~~
 
 
-~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="20" late-credit="20"}
+~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample autoAtoms" points="20" late-credit="20"}
 5 ~(S v T) <-> (~P & S)
 ~~~
 
