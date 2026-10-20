@@ -16,7 +16,7 @@ This page contains the different kinds of problems that are given to students in
 
 1. For the syntax problems, type the main logical operator for the given TFL sentence in the space provided. Use ~, v, &, ->, and <->.
 2. Hit `Enter` (not &ldquo;Submit&rdquo;).
-3. Type the main logical operator for the sub-sentence that's in red. Hit `enter`.
+3. Type the main logical operator for the sub-sentence that's in red. Hit `Enter`.
 4. Repeat until finished. (You're finished when the box turns green and the check mark appears.)
 5. **Then submit the problem.**
 
