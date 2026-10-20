@@ -44,7 +44,7 @@ In the next set of problems, you have to fill in truth tables. The TFL sentence 
 
 ## Proofs
 
-Construct a proof for the argument in the space provided. Begin by listing the premises, and then proceed until you reach the conclusion. For each line, if there are no errors, a + will appear on the far right. A ? or a &#x26A0; indicates that there is a mistake on the line. A green bar with a &check; will appear when the proof is finished. You can only submit each proof when it is complete and correct.
+Construct a proof for the argument given in the space provided. Begin by listing the premises, and then proceed until you reach the conclusion. For each line, if there are no errors, a + will appear on the far right. A ? or a &#x26A0; indicates that there is a mistake on the line. A green bar with a &check; will appear when the proof is correct and complete. You can only submit each proof when it is correct and complete.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="8"}
 6 P -> Q, P :|-: Q
