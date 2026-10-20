@@ -7,7 +7,7 @@ title: example problems
 
 ---
 
-This page contains the different kinds of problems that are given to students in Mississippi State's Intro to Logic course. Normally, an assignment would only include or maybe two types of problems. 
+This page contains the different kinds of problems that are given to students in Mississippi State's Intro to Logic course. Normally, an assignment would only include one or two types of problems. 
 
 ---
 
@@ -28,7 +28,7 @@ This page contains the different kinds of problems that are given to students in
 
 ## Truth Tables
 
-In the next problem, you have to fill in a truth table. The TFL sentence is given above the table. For each cell below the sentence letters and logical operators in the table, select T or F from the drop down menu. When you are finished, click on the "Check" button. A pop-up box will tell you if the table is correct or if it is not. If there is a mistake, then go back and try to correct it (then repeat the check). If the check reports "Success!", hit the "Submit" button. You can only submit when the truth table is complete and correct.
+In the next set of problems, you have to fill in truth tables. The TFL sentence is given above the table. For each cell below the sentence letters and logical operators in the table, select T or F from the drop down menu. When you are finished, click on the "Check" button. If there is a mistake, then go back and try to correct it (then repeat the check). If the check reports "Success!", click the "Submit" button. You can only submit when the truth table is complete and correct.
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
 3 (P -> (Q v ~Q))
@@ -43,6 +43,8 @@ In the next problem, you have to fill in a truth table. The TFL sentence is give
 ~~~
 
 ## Proofs
+
+Construct a proof for the argument in the space provided. Begin by listing the premises, and then proceed until you reach the conclusion. For each line, if there are no errors, a `+` will appear on the far right. A `?` or a `&#x26A0;` indicates that there is a mistake on the line. A green bar with a `&check;` will appear when the proof is finished. You can only submit each proof when it is complete and correct.
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="8"}
 6 P -> Q, P :|-: Q
