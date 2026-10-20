@@ -11,7 +11,7 @@ This page contains the different kinds of problems that are given to students in
 
 ---
 
-## Syntax Check Problem
+## Syntax Problems
 
 
 1. For problem 1, type the main logical operator for the given TFL sentence in the space provided. Use ~, v, & , ->, and <->.
@@ -23,18 +23,20 @@ This page contains the different kinds of problems that are given to students in
 
 ~~~{.SynChecker .Match system="magnusSL"  points="10" late-credit="8"}
 1 (R & ~T)
+2 (P v Q) -> S
 ~~~
 
-## Truth Table
+## Truth Tables
 
 In the next problem, you have to fill in a truth table. The TFL sentence is given above the table. For each cell below the sentence letters and logical operators in the table, select T or F from the drop down menu. When you are finished, click on the "Check" button. A pop-up box will tell you if the table is correct or if it is not. If there is a mistake, then go back and try to correct it (then repeat the check). If the check reports "Success!", hit the "Submit" button. You can only submit when the truth table is complete and correct.
 
 ~~~{.TruthTable .Simple system="magnusSL" options="nocounterexample" points="10" late-credit="8"}
-2 (R & ~T)
+3 (P -> (Q v ~Q))
+4 (R & ~T)
 ~~~
 
 ~~~{.QualitativeProblem .MultipleChoice options="check" points="10" late-credit="8"}
-3 Which one of the following is correct about (R & &not;T), the TFL sentence in the previous problem?
+5 Which one of the following is correct about (R & &not;T), the TFL sentence in the previous problem?
 | This sentence is a tautology
 | This sentence is a contradiction.
 |* This sentence is contingent.
@@ -43,8 +45,8 @@ In the next problem, you have to fill in a truth table. The TFL sentence is give
 ## Proofs
 
 ~~~{.ProofChecker .JohnsonSL options="fonts tabindent render" guides="fitch" points="10" late-credit="8"}
-4 P -> Q, P :|-: Q
-5 S & T, Q v R, ~R :|-: Q & T
+6 P -> Q, P :|-: Q
+7 S & T, Q v R, ~R :|-: Q & T
 ~~~
 
 <p>&copy; <script>document.write(new Date().getFullYear())</script> Gregory Johnson</p>
